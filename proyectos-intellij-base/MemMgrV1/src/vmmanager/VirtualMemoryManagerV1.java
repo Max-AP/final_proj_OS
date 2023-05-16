@@ -101,6 +101,7 @@ public class VirtualMemoryManagerV1 {
 
     // Method to read a byte to memory given a virtual address
     public Byte readByte(Integer fourByteBinaryString) throws MemoryException {
+        boolean readFromDisk = true;
         //address in decimal form
         int address = BitwiseToolbox.extractBits(fourByteBinaryString, 0, numBitsToAddress - 1);
 
@@ -129,7 +130,10 @@ public class VirtualMemoryManagerV1 {
             }
         } else {
             System.out.println("Page " + physicalPageNumber + " is already on memory");
+            readFromDisk = false;
         }
+
+        frame = pageTable.lookup(physicalPageNumber);
 
         //frame in bits
         String frameBits = BitwiseToolbox.getBitString(frame, virtualPageNumberSize-1);
@@ -143,8 +147,13 @@ public class VirtualMemoryManagerV1 {
         //physical address in decimal
         int physicalAddress = Integer.parseInt(physicalAddressBits, 2);
 
-        //Getting the value stored in the disk
-        byte valInAddr = disk.readPage(physicalPageNumber)[pageOffset];
+        byte valInAddr;
+        if (readFromDisk){
+            //Getting the value stored in the disk
+            valInAddr = disk.readPage(physicalPageNumber)[pageOffset];
+        } else {
+            valInAddr = memory.readByte(physicalAddress);
+        }
 
         //printing a message
         System.out.println("RAM: @" + BitwiseToolbox.getBitString(physicalAddress, log2(memory.size())-1) + " --> " + valInAddr);
