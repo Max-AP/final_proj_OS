@@ -232,7 +232,7 @@ class PageTable {
 
     public void update(int virtualPageNumber){
         System.out.println("Bringing page " + virtualPageNumber + " into frame " + pageTable.size());
-            pageTable.add(virtualPageNumber);
+        pageTable.add(virtualPageNumber);
     }
 }
 
