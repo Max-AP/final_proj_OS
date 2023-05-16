@@ -1,0 +1,158 @@
+INITIAL RAM CONTENT: ALL ZEROS
+INITIAL DISK CONTENT:
+PAGE 0: 71,6,-115,-78
+PAGE 1: -23,-52,17,115
+PAGE 2: -65,-99,111,-90
+PAGE 3: -21,85,57,55
+---------------------------------------------
+PERFORMING RANDOMLY GENERATED TRANSACTIONS...
+Read transaction for virtual address: 1100
+Bringing page 3 into frame 0
+RAM: @0000 --> -21
+Write transaction for virtual address: 1110
+Page 3 is in memory
+RAM: @0010 <-- -77
+Read transaction for virtual address: 0101
+Bringing page 1 into frame 1
+RAM: @0101 --> -52
+Write transaction for virtual address: 1011
+Bringing page 2 into frame 2
+RAM: @1011 <-- 67
+Read transaction for virtual address: 0010
+Bringing page 0 into frame 3
+RAM: @1110 --> -115
+Write transaction for virtual address: 0001
+Page 0 is in memory
+RAM: @1101 <-- 124
+Read transaction for virtual address: 1110
+Page 3 is in memory
+RAM: @0010 --> -77
+Write transaction for virtual address: 0000
+Page 0 is in memory
+RAM: @1100 <-- -86
+Read transaction for virtual address: 1000
+Page 2 is in memory
+RAM: @1000 --> -65
+Write transaction for virtual address: 1111
+Page 3 is in memory
+RAM: @0011 <-- -124
+Read transaction for virtual address: 1101
+Page 3 is in memory
+RAM: @0001 --> 85
+Write transaction for virtual address: 0001
+Page 0 is in memory
+RAM: @1101 <-- -58
+Read transaction for virtual address: 1001
+Page 2 is in memory
+RAM: @1001 --> -99
+Write transaction for virtual address: 1100
+Page 3 is in memory
+RAM: @0000 <-- -126
+Read transaction for virtual address: 1001
+Page 2 is in memory
+RAM: @1001 --> -99
+Write transaction for virtual address: 0111
+Page 1 is in memory
+RAM: @0111 <-- 82
+Read transaction for virtual address: 1011
+Page 2 is in memory
+RAM: @1011 --> 67
+Write transaction for virtual address: 1110
+Page 3 is in memory
+RAM: @0010 <-- -86
+Read transaction for virtual address: 1001
+Page 2 is in memory
+RAM: @1001 --> -99
+Write transaction for virtual address: 1111
+Page 3 is in memory
+RAM: @0011 <-- 123
+Read transaction for virtual address: 1111
+Page 3 is in memory
+RAM: @0011 --> 123
+Write transaction for virtual address: 0100
+Page 1 is in memory
+RAM: @0100 <-- -84
+Read transaction for virtual address: 1010
+Page 2 is in memory
+RAM: @1010 --> 111
+Write transaction for virtual address: 1111
+Page 3 is in memory
+RAM: @0011 <-- 60
+Read transaction for virtual address: 1100
+Page 3 is in memory
+RAM: @0000 --> -126
+Write transaction for virtual address: 1000
+Page 2 is in memory
+RAM: @1000 <-- 65
+Read transaction for virtual address: 0001
+Page 0 is in memory
+RAM: @1101 --> -58
+Write transaction for virtual address: 0010
+Page 0 is in memory
+RAM: @1110 <-- 39
+Read transaction for virtual address: 0000
+Page 0 is in memory
+RAM: @1100 --> -86
+Write transaction for virtual address: 0011
+Page 0 is in memory
+RAM: @1111 <-- -122
+Read transaction for virtual address: 0101
+Page 1 is in memory
+RAM: @0101 --> -52
+Write transaction for virtual address: 0101
+Page 1 is in memory
+RAM: @0101 <-- -103
+Read transaction for virtual address: 1001
+Page 2 is in memory
+RAM: @1001 --> -99
+Write transaction for virtual address: 0100
+Page 1 is in memory
+RAM: @0100 <-- 58
+Read transaction for virtual address: 1010
+Page 2 is in memory
+RAM: @1010 --> 111
+Write transaction for virtual address: 0000
+Page 0 is in memory
+RAM: @1100 <-- -80
+Read transaction for virtual address: 0100
+Page 1 is in memory
+RAM: @0100 --> 58
+Write transaction for virtual address: 0100
+Page 1 is in memory
+RAM: @0100 <-- 46
+Read transaction for virtual address: 1101
+Page 3 is in memory
+RAM: @0001 --> 85
+Write transaction for virtual address: 0111
+Page 1 is in memory
+RAM: @0111 <-- 69
+END OF MEMORY TRANSACTIONS
+---------------------------------------------
+MEMORY CONTENT:
+0000: -126
+0001: 85
+0010: -86
+0011: 60
+0100: 46
+0101: -103
+0110: 17
+0111: 69
+1000: 65
+1001: -99
+1010: 111
+1011: 67
+1100: -80
+1101: -58
+1110: 39
+1111: -122
+---------------------------------------------
+WRITING PAGES BACK TO DISK...
+DISK CONTENT:
+PAGE 0: -80,-58,39,-122
+PAGE 1: 46,-103,17,69
+PAGE 2: 65,-99,111,67
+PAGE 3: -126,85,-86,60
+---------------------------------------------
+NUM PAGE FAULTS: 4
+NUM BYTES TRANSFERRED: 32
+---------------------------------------------

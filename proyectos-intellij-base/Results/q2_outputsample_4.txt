@@ -1,0 +1,3686 @@
+INITIAL RAM CONTENT: ALL ZEROS
+INITIAL DISK CONTENT:
+PAGE 0: 40,-66,91,-79,103,41,109,112
+PAGE 1: -113,55,105,119,-24,32,101,-33
+PAGE 2: 92,-46,-120,-107,-88,-17,-5,22
+PAGE 3: -31,102,62,-51,104,80,27,-13
+PAGE 4: -126,76,-87,78,46,8,116,-97
+PAGE 5: -79,51,-12,-4,-63,97,-64,-94
+PAGE 6: -10,87,53,-43,85,110,-89,112
+PAGE 7: -5,122,51,-45,76,-114,37,86
+PAGE 8: -86,7,59,-38,-12,-75,79,65
+PAGE 9: -33,-12,-124,42,-94,85,-122,-75
+PAGE 10: 73,-111,64,87,-83,-111,-77,89
+PAGE 11: 96,-34,-22,66,6,-34,43,125
+PAGE 12: -97,-106,108,-10,-123,-22,-19,126
+PAGE 13: 104,-5,-60,-30,34,104,1,-84
+PAGE 14: 55,33,-97,9,-74,92,-42,-51
+PAGE 15: 15,53,100,87,-10,-55,79,65
+PAGE 16: 69,52,-84,-76,-61,45,52,-117
+PAGE 17: 28,88,67,22,13,37,-63,-10
+PAGE 18: -58,24,-109,-122,-51,15,-30,119
+PAGE 19: -53,-73,46,-101,-15,75,45,120
+PAGE 20: -27,-57,-101,-3,37,70,26,75
+PAGE 21: -48,-72,-4,-13,-32,-118,-62,77
+PAGE 22: -96,23,-10,-4,34,-1,-121,40
+PAGE 23: -101,-120,21,68,-65,-57,37,-74
+PAGE 24: -85,-115,12,-106,51,-9,51,-28
+PAGE 25: -34,-124,40,-7,78,45,96,-8
+PAGE 26: -108,-4,118,94,55,-71,47,-87
+PAGE 27: 75,23,82,-61,-100,-43,31,-96
+PAGE 28: 39,79,-105,-21,11,16,68,-78
+PAGE 29: -94,9,-35,-3,-67,39,52,-75
+PAGE 30: 19,38,-83,-88,100,125,28,-101
+PAGE 31: -22,-107,-10,-82,-69,-36,-123,88
+PAGE 32: -51,43,-45,-87,-33,-55,-78,-35
+PAGE 33: -2,-74,92,-68,-55,-33,85,-128
+PAGE 34: -76,66,35,24,86,2,91,32
+PAGE 35: 74,125,-126,77,-66,125,-115,-126
+PAGE 36: 117,-15,108,119,117,118,1,110
+PAGE 37: -42,107,30,121,-63,-105,-99,25
+PAGE 38: -80,-79,-69,22,-116,-116,49,-127
+PAGE 39: -124,33,-45,120,64,-51,17,-18
+PAGE 40: -37,4,-95,32,-90,126,-107,60
+PAGE 41: -107,-46,-30,97,37,-47,-41,-9
+PAGE 42: 102,115,16,-63,-39,84,12,-34
+PAGE 43: 113,86,-30,65,75,94,-118,61
+PAGE 44: 32,-38,-39,-30,-33,-80,116,-99
+PAGE 45: -89,-51,104,-14,46,127,18,73
+PAGE 46: -40,-87,-80,-16,-27,62,32,67
+PAGE 47: 49,36,5,-69,-30,28,-23,-66
+PAGE 48: 71,-3,116,-125,-93,-33,-52,-20
+PAGE 49: -3,-13,-110,45,70,9,110,-69
+PAGE 50: 45,-87,93,-45,-84,-33,61,32
+PAGE 51: -88,-117,-100,-110,121,-8,104,63
+PAGE 52: -71,-86,-16,89,6,-48,96,113
+PAGE 53: -116,29,16,-62,-117,29,28,13
+PAGE 54: 45,-104,-87,57,-3,-45,-114,60
+PAGE 55: -4,90,106,-76,119,94,-105,-39
+PAGE 56: -62,-9,3,124,51,120,52,45
+PAGE 57: -50,-1,-40,65,81,83,118,-51
+PAGE 58: -56,-96,-103,-15,-4,102,55,-69
+PAGE 59: 25,18,-4,-5,-69,-124,34,-100
+PAGE 60: 17,-117,99,-56,-24,-115,18,71
+PAGE 61: 63,-38,20,108,-99,-99,86,76
+PAGE 62: -113,-80,45,-76,-96,-120,22,-85
+PAGE 63: 45,-41,-35,30,20,-124,54,111
+PAGE 64: 60,-27,52,-93,-11,100,-59,-80
+PAGE 65: -31,50,55,41,-86,-115,27,112
+PAGE 66: 57,-55,-17,102,54,20,30,-23
+PAGE 67: 44,123,-121,89,-56,66,115,-51
+PAGE 68: 58,57,114,-43,-63,29,29,-113
+PAGE 69: -72,-94,104,65,104,101,2,14
+PAGE 70: 32,-31,-20,-76,-36,102,-3,-47
+PAGE 71: 77,-114,53,22,14,47,-59,-68
+PAGE 72: -25,-44,-64,38,-59,35,29,-78
+PAGE 73: 79,-78,-116,5,-8,-7,-64,107
+PAGE 74: -63,83,-71,76,7,70,24,93
+PAGE 75: -117,-124,32,-71,-108,-55,-86,-14
+PAGE 76: -125,25,124,-9,14,-4,-22,28
+PAGE 77: 50,-58,118,27,49,102,-119,-60
+PAGE 78: 64,-30,98,99,-3,21,4,-64
+PAGE 79: 36,-22,-61,-7,-7,-1,-80,54
+PAGE 80: 51,4,-9,86,-65,99,88,54
+PAGE 81: 114,27,32,94,30,-115,-31,6
+PAGE 82: -31,67,114,118,92,96,5,-89
+PAGE 83: 30,-88,39,-75,84,87,48,-27
+PAGE 84: 127,70,54,-48,-115,-66,34,-68
+PAGE 85: 36,-44,-16,74,126,108,-8,-125
+PAGE 86: -112,70,94,-87,-111,-86,71,100
+PAGE 87: -67,88,93,-15,-85,-26,-108,-21
+PAGE 88: -46,-18,-92,109,65,-43,65,-4
+PAGE 89: -30,19,110,-59,67,63,99,-12
+PAGE 90: 90,127,18,-123,98,-100,-55,52
+PAGE 91: 14,-84,-93,-34,125,33,-69,-74
+PAGE 92: -2,-96,-123,66,58,-28,-33,40
+PAGE 93: 72,44,-33,18,20,112,108,9
+PAGE 94: -14,-118,107,82,101,118,55,-33
+PAGE 95: 96,-36,-31,-2,57,114,43,83
+PAGE 96: -75,94,34,31,-24,-7,-44,-44
+PAGE 97: 120,-39,-69,-49,-54,91,94,-67
+PAGE 98: 45,-34,-54,-62,-122,-40,45,126
+PAGE 99: -58,50,109,64,-60,-92,62,110
+PAGE 100: 16,-32,-4,-14,82,-91,-65,-57
+PAGE 101: -105,-114,-11,72,-10,-29,115,-72
+PAGE 102: -122,38,36,28,-123,-40,-98,60
+PAGE 103: -106,-101,74,-59,-9,32,117,-2
+PAGE 104: 12,124,-127,-58,-111,-12,20,98
+PAGE 105: 77,-46,109,19,90,-47,88,107
+PAGE 106: -101,58,38,-88,117,104,83,40
+PAGE 107: -20,74,94,68,31,-11,-118,24
+PAGE 108: 9,-95,-2,35,83,-61,-63,-70
+PAGE 109: 73,-85,43,-12,108,6,100,-13
+PAGE 110: -82,-102,97,-72,63,13,-61,3
+PAGE 111: 40,113,59,110,124,-80,18,-34
+PAGE 112: 73,-35,-30,61,89,89,55,121
+PAGE 113: -69,28,34,44,-42,-127,-11,119
+PAGE 114: 37,-127,-114,43,29,-27,-69,45
+PAGE 115: 107,-1,-123,-125,-62,13,-95,-127
+PAGE 116: 119,119,-125,30,-7,88,-3,47
+PAGE 117: -39,-78,-103,2,-8,48,-94,115
+PAGE 118: 10,-125,84,2,31,-2,-108,74
+PAGE 119: 31,124,24,87,-102,109,-45,19
+PAGE 120: 29,-105,-19,-77,-100,-3,34,-91
+PAGE 121: 90,31,-113,-7,101,-110,23,71
+PAGE 122: -117,-64,53,60,-87,-4,-28,87
+PAGE 123: 108,-25,95,74,34,33,-69,43
+PAGE 124: 44,-3,-125,-104,65,-86,41,7
+PAGE 125: -2,-27,-104,111,97,40,-31,-122
+PAGE 126: 123,-91,127,-25,-13,17,-9,56
+PAGE 127: -61,-81,-97,110,105,-124,119,-124
+PAGE 128: 120,76,107,15,-7,-57,66,-122
+PAGE 129: 4,25,38,-109,106,-69,121,-80
+PAGE 130: -49,57,99,9,-120,66,120,-105
+PAGE 131: 87,-74,15,-38,-12,-24,8,89
+PAGE 132: 58,-30,6,-54,105,-12,-6,42
+PAGE 133: -79,37,40,115,-84,108,82,86
+PAGE 134: 35,2,-105,-59,-57,-4,22,41
+PAGE 135: -97,99,6,108,60,80,-90,-98
+PAGE 136: -116,62,8,-78,75,-128,-84,12
+PAGE 137: -48,-80,121,-87,-117,-104,-71,93
+PAGE 138: 51,112,36,-9,101,-1,14,8
+PAGE 139: -42,-53,-96,-81,46,-10,31,61
+PAGE 140: -16,-4,-46,33,-20,61,83,59
+PAGE 141: 45,-125,-108,-109,29,-119,-53,-100
+PAGE 142: 98,-29,66,62,-22,-113,-37,-47
+PAGE 143: 123,-29,-102,72,-87,-85,24,12
+PAGE 144: -54,92,55,-85,-80,-97,-101,-55
+PAGE 145: 25,-122,104,78,-83,-8,-42,1
+PAGE 146: 54,57,98,97,47,1,-118,-84
+PAGE 147: -46,-61,73,90,3,1,32,-85
+PAGE 148: -31,89,-59,-54,-118,38,71,101
+PAGE 149: -23,-49,101,-78,58,100,-33,112
+PAGE 150: -39,-19,-58,-63,-26,-119,102,40
+PAGE 151: 96,-1,-23,-92,-123,64,-9,65
+PAGE 152: -30,84,58,-84,-124,32,64,-43
+PAGE 153: 119,-64,11,93,-11,45,39,-81
+PAGE 154: -102,-52,89,-114,18,107,-3,48
+PAGE 155: 114,6,-76,-87,-22,56,-117,-43
+PAGE 156: -35,75,-53,114,61,-73,-10,-123
+PAGE 157: -97,45,-113,109,-57,-113,-21,7
+PAGE 158: 106,48,-115,81,-118,102,-86,-27
+PAGE 159: -105,-101,104,2,-28,-41,108,37
+PAGE 160: -58,-94,77,78,102,78,-31,5
+PAGE 161: -61,-97,105,-6,-56,93,-68,-48
+PAGE 162: 96,-44,121,113,123,-123,48,63
+PAGE 163: 34,88,71,61,-105,-108,-46,-12
+PAGE 164: -11,123,-128,4,68,50,58,-11
+PAGE 165: 72,-98,-29,109,-55,-104,25,-105
+PAGE 166: 53,52,-107,59,-29,46,20,-35
+PAGE 167: -87,64,-95,-6,28,-86,108,57
+PAGE 168: -89,-96,-8,123,50,-106,84,117
+PAGE 169: 23,12,-20,-25,-53,-48,64,-116
+PAGE 170: -55,124,-93,31,23,-114,-79,50
+PAGE 171: -119,105,121,-67,0,34,-106,-23
+PAGE 172: 122,-7,112,68,27,-29,34,-107
+PAGE 173: 29,-108,-50,123,-122,87,84,-73
+PAGE 174: -100,12,-57,-49,61,73,73,-111
+PAGE 175: 95,-85,-27,-36,-62,-82,-84,10
+PAGE 176: -11,-106,-127,14,4,86,-56,-111
+PAGE 177: -53,37,-101,-96,-29,66,70,-111
+PAGE 178: 85,-124,-49,21,-45,-121,125,57
+PAGE 179: -112,103,33,72,88,86,-103,47
+PAGE 180: -2,73,-1,-126,-128,-18,79,3
+PAGE 181: -106,-127,80,115,-126,63,49,-15
+PAGE 182: 63,103,42,80,38,73,-7,-77
+PAGE 183: -62,92,-124,91,-85,-20,-45,-50
+PAGE 184: 98,-52,-123,-16,58,-83,-30,54
+PAGE 185: 120,-43,27,122,53,51,9,-101
+PAGE 186: -57,75,23,-77,-36,10,60,46
+PAGE 187: 97,-117,-49,-40,22,94,107,-74
+PAGE 188: 80,121,-18,-45,111,34,23,9
+PAGE 189: 109,105,63,112,-125,-81,-51,85
+PAGE 190: 0,-100,1,-99,107,-65,-61,125
+PAGE 191: 27,42,-126,49,-21,-55,-36,107
+PAGE 192: -34,-107,-75,86,113,76,52,-116
+PAGE 193: -9,91,114,66,38,52,-88,41
+PAGE 194: 31,-26,33,-121,-97,20,15,-71
+PAGE 195: 100,-86,40,-74,-18,108,-61,116
+PAGE 196: -125,41,-112,124,37,-58,-127,-89
+PAGE 197: -101,110,-53,-53,-115,65,-96,73
+PAGE 198: -2,-68,-56,93,24,10,50,11
+PAGE 199: -13,-52,-41,-23,-40,91,-85,92
+PAGE 200: -101,102,-76,-33,-122,69,-1,-91
+PAGE 201: 98,-30,-120,19,91,59,-49,55
+PAGE 202: -99,40,-11,85,-55,-41,-10,-125
+PAGE 203: 67,-58,69,45,-43,13,-111,-53
+PAGE 204: -25,-94,-106,-119,32,106,29,92
+PAGE 205: 89,100,71,-60,-26,26,62,-26
+PAGE 206: -99,-90,24,-88,123,36,-59,43
+PAGE 207: 19,115,51,49,6,-73,-41,39
+PAGE 208: 10,-32,28,-84,-107,-37,81,37
+PAGE 209: 17,10,122,85,-71,-15,-42,-15
+PAGE 210: -61,-70,42,-14,72,-116,-55,-113
+PAGE 211: -26,-100,23,36,0,115,-64,13
+PAGE 212: 13,-28,-118,-67,28,-72,-96,123
+PAGE 213: 31,94,53,-24,18,60,20,-104
+PAGE 214: 123,15,110,101,32,119,23,80
+PAGE 215: -124,78,62,91,76,63,-84,93
+PAGE 216: -37,-31,-88,-65,-3,82,117,84
+PAGE 217: -99,124,-97,40,101,3,88,-77
+PAGE 218: 82,38,-119,78,71,63,-65,-10
+PAGE 219: 119,56,-50,75,-27,-59,-78,-63
+PAGE 220: -58,-79,-26,72,22,67,100,-65
+PAGE 221: -88,63,-105,-99,-41,-48,20,-35
+PAGE 222: 123,-104,-44,-8,-43,-89,18,-124
+PAGE 223: -113,37,102,4,-67,-9,87,82
+PAGE 224: 0,-102,125,60,89,-63,-80,124
+PAGE 225: -32,123,100,-80,-61,111,50,-48
+PAGE 226: 76,-25,0,104,53,-93,-111,-87
+PAGE 227: 95,127,68,-4,56,119,106,113
+PAGE 228: 35,-89,-46,-4,75,87,-81,98
+PAGE 229: -21,76,-125,94,57,-128,88,73
+PAGE 230: -66,-36,117,-27,-90,105,57,-94
+PAGE 231: -67,-30,42,-7,-82,-46,84,9
+PAGE 232: -86,-108,-101,73,-121,-35,95,114
+PAGE 233: -15,113,-36,-9,122,-39,8,-18
+PAGE 234: -16,123,13,-23,-67,-33,47,-12
+PAGE 235: 70,-60,111,1,-18,-114,107,30
+PAGE 236: 117,69,-120,-23,57,-54,-40,108
+PAGE 237: 33,-70,-4,-125,125,-68,-77,54
+PAGE 238: -93,-127,12,119,-31,76,5,45
+PAGE 239: -41,36,-16,-53,-74,1,2,7
+PAGE 240: 73,-52,114,-75,-92,-49,93,-108
+PAGE 241: 43,-127,29,105,110,-42,47,-13
+PAGE 242: -65,116,122,-89,-50,97,6,-41
+PAGE 243: 21,86,-45,-29,60,-4,79,-82
+PAGE 244: 78,4,88,-103,-100,-54,59,5
+PAGE 245: -59,59,16,-72,41,19,64,-60
+PAGE 246: -50,70,59,-83,19,-113,88,123
+PAGE 247: -26,-50,82,-62,-88,69,114,-3
+PAGE 248: -113,-71,-102,-91,13,1,-60,-69
+PAGE 249: 39,20,95,16,-61,63,17,-48
+PAGE 250: 124,-124,-116,93,-108,-85,-38,-127
+PAGE 251: -10,15,-8,116,-105,-27,15,-27
+PAGE 252: 125,97,83,89,114,-80,0,-18
+PAGE 253: -114,-106,52,104,2,125,-39,10
+PAGE 254: 29,22,-56,-22,8,-21,3,37
+PAGE 255: 52,-104,2,3,-102,62,110,-119
+PAGE 256: 109,99,-82,-28,94,-20,-4,-40
+PAGE 257: -68,109,-36,35,-32,-127,3,-88
+PAGE 258: 39,-112,-114,63,123,36,59,125
+PAGE 259: 82,-23,-25,-88,-75,-8,-3,-63
+PAGE 260: 21,-15,-102,64,-9,-52,-71,-126
+PAGE 261: 118,47,-17,-48,12,-82,-113,-85
+PAGE 262: -77,19,-69,41,-50,104,96,-36
+PAGE 263: 72,-100,31,45,-32,-69,-86,116
+PAGE 264: 19,111,76,-97,118,-19,42,59
+PAGE 265: 5,57,123,-119,104,-20,-108,30
+PAGE 266: 0,-65,-62,78,50,-23,-126,79
+PAGE 267: -47,-123,-83,5,-119,-70,119,84
+PAGE 268: 102,109,80,-25,-88,58,-44,-41
+PAGE 269: -74,-101,-68,123,-116,101,11,29
+PAGE 270: -16,-83,97,-75,-79,45,-3,33
+PAGE 271: -20,-22,27,-62,16,12,51,50
+PAGE 272: -13,47,59,-95,112,17,-29,-66
+PAGE 273: 90,25,54,83,66,2,75,-50
+PAGE 274: -118,-118,-73,-118,-91,-101,113,-86
+PAGE 275: 92,-59,-41,49,74,-41,73,93
+PAGE 276: 1,-57,44,-2,67,-83,-36,-41
+PAGE 277: -57,48,61,72,8,-66,-25,92
+PAGE 278: 118,-83,53,-85,63,76,97,127
+PAGE 279: 41,24,33,11,-1,76,7,-118
+PAGE 280: -67,-73,-80,99,-86,-26,59,97
+PAGE 281: 84,58,75,107,-111,-55,-43,45
+PAGE 282: -124,-50,0,98,1,51,87,110
+PAGE 283: 29,84,1,107,108,114,-56,81
+PAGE 284: -73,52,-70,55,-61,65,-104,123
+PAGE 285: 97,-108,-91,89,68,125,-1,-23
+PAGE 286: 37,69,-88,-61,68,-108,-31,53
+PAGE 287: 72,-52,-7,98,-62,-69,-18,-88
+PAGE 288: 99,-26,-66,125,-63,76,48,-12
+PAGE 289: -51,-33,46,-23,-69,27,-73,104
+PAGE 290: -16,-40,84,3,-77,-53,-45,15
+PAGE 291: 125,58,92,-19,-91,118,-101,-107
+PAGE 292: -102,67,50,52,104,78,-15,121
+PAGE 293: 126,76,115,-127,70,100,-82,44
+PAGE 294: 31,34,-47,35,-50,98,-118,-114
+PAGE 295: -46,83,127,13,-83,4,126,9
+PAGE 296: 22,122,-29,71,-111,68,86,-15
+PAGE 297: -35,-11,65,-56,102,-11,93,-16
+PAGE 298: 15,122,13,112,105,119,43,45
+PAGE 299: 36,109,65,-107,-24,-27,62,0
+PAGE 300: -7,-26,-1,96,-84,50,-72,12
+PAGE 301: 87,79,101,0,82,127,6,-78
+PAGE 302: -60,123,1,57,42,114,29,56
+PAGE 303: -111,47,-117,5,86,-109,81,-21
+PAGE 304: 70,31,-68,-61,57,-64,-23,-89
+PAGE 305: -35,-96,76,-7,117,-58,-75,-54
+PAGE 306: 98,20,13,113,14,13,46,96
+PAGE 307: -4,92,-60,67,108,41,55,3
+PAGE 308: 103,-120,-27,-4,78,39,56,-89
+PAGE 309: 100,-109,-72,-74,-19,117,-7,-34
+PAGE 310: -75,35,59,-33,-28,-87,35,96
+PAGE 311: -116,-92,108,106,-110,-30,123,77
+PAGE 312: -90,-128,-34,24,20,115,43,67
+PAGE 313: 102,-51,-68,7,14,-62,41,-29
+PAGE 314: -86,-84,7,-49,-48,-8,-78,-103
+PAGE 315: 45,-121,74,-49,-91,97,-7,5
+PAGE 316: -77,23,-57,-79,74,14,-96,-69
+PAGE 317: 96,-97,-88,28,-35,-38,117,0
+PAGE 318: -44,-107,-117,83,-54,-18,18,116
+PAGE 319: 13,76,-30,117,118,-52,39,-95
+PAGE 320: 36,87,-44,55,-63,-95,19,102
+PAGE 321: 82,-64,-88,-53,-106,46,28,-29
+PAGE 322: -24,-7,47,111,29,12,-87,-109
+PAGE 323: 32,5,39,-119,72,-74,-121,-52
+PAGE 324: -16,26,24,117,-34,66,63,-20
+PAGE 325: 66,26,52,-100,39,124,120,-35
+PAGE 326: 65,8,75,-77,-24,-14,-121,-73
+PAGE 327: -99,-93,-105,35,86,-38,110,-87
+PAGE 328: -12,121,59,116,27,-14,88,89
+PAGE 329: -71,-90,-107,-31,-78,-75,-47,86
+PAGE 330: 93,117,72,53,-96,77,-70,38
+PAGE 331: 127,28,58,-95,75,-90,-63,-3
+PAGE 332: 110,-66,-19,-97,-123,105,-106,69
+PAGE 333: 68,91,37,37,15,-77,17,48
+PAGE 334: 93,123,63,9,-116,5,-108,28
+PAGE 335: 6,-99,38,-13,-57,-108,99,61
+PAGE 336: -123,-18,9,39,63,59,-53,8
+PAGE 337: -12,37,2,-31,71,-76,-48,35
+PAGE 338: -119,106,24,-52,72,-55,-125,-112
+PAGE 339: 51,-49,-108,-16,-31,87,104,30
+PAGE 340: -66,-28,-76,111,-2,63,60,94
+PAGE 341: -33,-7,94,20,26,-76,94,-86
+PAGE 342: -54,-55,-93,41,67,-29,30,11
+PAGE 343: 79,46,-99,109,-96,-45,79,-31
+PAGE 344: -120,-8,-11,-87,-116,85,2,77
+PAGE 345: -99,-21,-76,-118,122,-118,-76,-107
+PAGE 346: 47,7,69,-75,64,96,97,-9
+PAGE 347: 100,107,32,-12,-127,-24,-42,-107
+PAGE 348: -78,54,-116,96,70,109,-106,121
+PAGE 349: -53,93,108,-57,14,-33,118,108
+PAGE 350: 104,-72,18,-34,-39,-123,92,4
+PAGE 351: -62,-31,-122,87,-12,13,39,108
+PAGE 352: -17,41,2,61,-98,-22,96,62
+PAGE 353: -117,61,-49,103,-80,-21,116,-122
+PAGE 354: 78,107,-114,65,-9,-104,-51,-72
+PAGE 355: 124,27,74,0,-33,-68,110,-111
+PAGE 356: 89,51,66,18,-103,81,102,10
+PAGE 357: 2,79,86,117,-16,14,77,16
+PAGE 358: 89,6,86,34,91,-12,86,79
+PAGE 359: -23,101,122,-72,25,-86,44,46
+PAGE 360: -21,114,45,-89,81,69,107,-114
+PAGE 361: -39,-119,-93,-110,-114,46,33,103
+PAGE 362: 40,-71,112,82,25,111,85,79
+PAGE 363: 35,118,-78,-10,-16,-48,-73,-37
+PAGE 364: 6,64,-9,-88,116,-42,41,50
+PAGE 365: -67,-123,-69,37,3,-22,-124,-80
+PAGE 366: -3,124,25,115,24,19,-116,27
+PAGE 367: -117,29,43,33,-92,77,-50,77
+PAGE 368: -19,49,71,-93,-61,33,114,36
+PAGE 369: -32,-10,79,-94,-7,-100,15,46
+PAGE 370: 62,37,41,6,-109,35,32,-35
+PAGE 371: 67,14,-31,6,-23,7,53,-4
+PAGE 372: 73,-72,99,-38,-108,62,80,26
+PAGE 373: 117,58,45,-33,-50,49,60,-113
+PAGE 374: -10,-1,-127,111,-102,115,-97,-58
+PAGE 375: -78,-81,-2,-40,105,45,-78,79
+PAGE 376: -91,67,-25,105,81,125,-111,122
+PAGE 377: 55,-13,28,-14,22,-60,-128,111
+PAGE 378: 81,6,31,-81,-110,12,11,-88
+PAGE 379: 4,3,-4,66,64,124,-20,52
+PAGE 380: -14,-3,-63,24,-9,-11,66,68
+PAGE 381: -29,-75,-49,101,22,19,-56,65
+PAGE 382: 35,-99,-88,78,-79,36,32,50
+PAGE 383: -88,-105,38,-36,126,93,-7,-2
+PAGE 384: 5,19,-118,-23,-104,102,3,120
+PAGE 385: -71,-59,-97,-67,74,-60,-74,37
+PAGE 386: 98,-27,-80,-73,-125,101,89,20
+PAGE 387: -48,-113,-125,17,-87,-49,-93,50
+PAGE 388: 20,-119,92,-116,-39,97,66,45
+PAGE 389: -1,-32,62,35,-33,117,102,-122
+PAGE 390: -88,-100,-7,-23,104,-126,98,86
+PAGE 391: -12,-76,61,-45,56,33,-74,42
+PAGE 392: 61,-87,-48,125,117,-51,-58,-59
+PAGE 393: 126,29,-95,-54,57,-95,-128,-19
+PAGE 394: -78,-115,101,83,19,31,-8,-22
+PAGE 395: 79,-100,17,-59,25,123,-48,-124
+PAGE 396: 0,-8,-65,-52,-72,-80,22,-29
+PAGE 397: 3,-43,-74,16,111,77,-29,40
+PAGE 398: -29,-112,119,93,12,6,110,127
+PAGE 399: 96,-37,105,109,44,59,-106,-19
+PAGE 400: -65,-67,-28,54,4,83,-102,-38
+PAGE 401: -33,-95,-57,-103,-54,-111,57,-68
+PAGE 402: -62,28,-127,30,47,-81,85,-8
+PAGE 403: 107,76,29,-29,-59,30,60,50
+PAGE 404: 69,31,-111,-118,79,-86,-108,102
+PAGE 405: 104,107,-128,-68,74,-24,49,-101
+PAGE 406: 119,102,-30,126,43,22,-1,-32
+PAGE 407: -10,98,1,-58,46,61,-63,116
+PAGE 408: 60,-58,0,2,-93,25,75,59
+PAGE 409: 118,-126,6,87,33,80,60,84
+PAGE 410: 82,18,-2,12,4,-31,-51,80
+PAGE 411: 76,-112,-62,-30,34,-46,92,-1
+PAGE 412: -75,25,7,-101,-99,127,-10,-8
+PAGE 413: -26,-51,-95,-61,53,64,-6,38
+PAGE 414: 69,116,-62,-84,-110,-42,-100,110
+PAGE 415: -3,-73,-76,-66,84,-40,-22,122
+PAGE 416: -91,6,28,68,-17,-108,87,-84
+PAGE 417: 27,7,-48,2,-94,105,-54,-4
+PAGE 418: 101,96,-22,73,0,-91,-87,-57
+PAGE 419: 92,-76,-115,108,-26,115,97,59
+PAGE 420: 98,88,9,22,-33,-102,8,-79
+PAGE 421: 120,6,-45,88,54,74,26,-35
+PAGE 422: 108,-117,87,-74,77,-8,-62,36
+PAGE 423: 0,-21,59,119,-14,44,-103,-20
+PAGE 424: 42,-95,-70,-73,-59,89,-26,81
+PAGE 425: -25,31,12,-115,-12,-114,103,66
+PAGE 426: 58,123,40,-24,-50,-32,-78,101
+PAGE 427: 67,-15,74,100,5,-6,-15,40
+PAGE 428: -100,-78,-15,119,-111,111,42,-11
+PAGE 429: 85,-113,-74,-79,-110,70,27,-88
+PAGE 430: 79,7,108,-35,-86,-119,31,48
+PAGE 431: -58,64,-120,75,-98,26,-97,106
+PAGE 432: 60,-90,-31,-98,66,-18,16,-5
+PAGE 433: 51,-11,-46,-38,-6,-29,-88,-60
+PAGE 434: 83,105,-108,-123,93,63,92,-20
+PAGE 435: -21,-5,-39,69,-76,-63,-93,87
+PAGE 436: -13,117,-14,-9,112,74,35,-73
+PAGE 437: -9,-30,85,115,-51,16,-101,38
+PAGE 438: -113,-35,11,51,54,-58,-28,-97
+PAGE 439: 90,-62,121,1,45,-112,-54,-97
+PAGE 440: -114,36,47,-102,-61,-103,-126,21
+PAGE 441: -103,119,-21,-17,-37,79,120,86
+PAGE 442: 113,-45,-116,65,-40,0,125,-78
+PAGE 443: 125,-107,5,-98,104,-33,33,-125
+PAGE 444: 58,118,32,-124,121,33,-53,-114
+PAGE 445: 22,12,-30,118,-84,111,-87,50
+PAGE 446: 12,-82,31,-48,-67,-26,46,-112
+PAGE 447: 3,-51,24,15,-76,-37,-58,-98
+PAGE 448: 14,57,22,-74,-28,52,107,6
+PAGE 449: -15,-17,13,-75,-6,-52,-53,-11
+PAGE 450: -107,20,-32,-89,-82,-54,-96,103
+PAGE 451: 97,27,95,-88,-42,110,9,-51
+PAGE 452: -126,29,33,20,-22,99,-121,16
+PAGE 453: -83,53,-72,127,53,101,25,59
+PAGE 454: -25,-46,-21,-86,76,-15,125,-7
+PAGE 455: 76,-94,83,34,-120,-6,50,-67
+PAGE 456: -16,30,63,127,-125,-7,-59,-27
+PAGE 457: 84,-113,-22,19,-2,-72,-48,95
+PAGE 458: 0,74,29,113,-117,119,-21,-118
+PAGE 459: 64,23,30,91,-12,-30,121,102
+PAGE 460: 26,124,124,67,63,-54,-101,-4
+PAGE 461: -13,58,-86,-69,-84,126,-58,-45
+PAGE 462: -126,112,115,10,49,-119,67,-110
+PAGE 463: -4,-9,63,83,61,-23,-21,-96
+PAGE 464: -93,63,11,47,-66,82,-12,-40
+PAGE 465: 27,-1,-13,97,-54,36,-117,70
+PAGE 466: 51,99,73,57,92,-25,-112,-94
+PAGE 467: 4,-49,3,106,-10,85,89,-2
+PAGE 468: -108,88,-109,100,53,38,79,36
+PAGE 469: 98,55,-117,38,-106,36,-50,33
+PAGE 470: 125,-123,-65,-40,-7,-66,-124,111
+PAGE 471: 30,-120,-32,-87,-88,-13,-118,116
+PAGE 472: -39,66,61,65,-16,-84,-84,-119
+PAGE 473: -32,-16,-19,82,-124,36,-23,108
+PAGE 474: -17,49,-8,-115,78,-49,-32,-128
+PAGE 475: -43,-44,66,9,81,-39,76,-119
+PAGE 476: -62,63,57,125,-54,50,-28,33
+PAGE 477: -77,22,0,42,-70,-22,-68,8
+PAGE 478: -70,-6,9,85,112,-32,-113,81
+PAGE 479: -7,-96,110,-32,-32,4,24,120
+PAGE 480: -125,30,-59,3,-74,69,61,118
+PAGE 481: 123,-82,63,-20,-111,31,74,46
+PAGE 482: 52,122,-55,-12,-50,-119,-26,35
+PAGE 483: 29,-105,106,121,-70,-59,100,56
+PAGE 484: -76,-108,-14,-35,58,100,102,64
+PAGE 485: -34,36,-108,18,26,-32,-81,61
+PAGE 486: 89,-77,-52,-26,-92,72,-58,-55
+PAGE 487: 24,-75,39,-117,56,-9,-17,98
+PAGE 488: -47,38,-80,-15,-17,-5,34,24
+PAGE 489: 5,-86,10,50,-106,32,122,54
+PAGE 490: 69,2,74,-53,-119,-26,-100,-4
+PAGE 491: -123,-16,86,-91,39,11,125,-77
+PAGE 492: -70,-96,-42,68,2,-72,74,48
+PAGE 493: 29,-98,17,51,-3,-34,105,-91
+PAGE 494: -69,-100,-76,18,-30,47,122,-90
+PAGE 495: 67,-21,-98,14,70,-28,-34,75
+PAGE 496: 53,30,61,-22,-74,31,-12,29
+PAGE 497: -40,13,5,-121,121,37,33,111
+PAGE 498: -95,-94,56,33,108,-6,-75,-86
+PAGE 499: -11,-73,35,91,-53,-128,81,-20
+PAGE 500: 103,-93,21,-67,-32,-124,-28,101
+PAGE 501: -23,62,30,-49,-24,-36,92,-94
+PAGE 502: -127,-66,120,-46,-74,123,-32,81
+PAGE 503: -126,-82,-110,13,-33,116,110,12
+PAGE 504: 95,69,20,-107,105,66,-97,53
+PAGE 505: -117,76,24,-8,93,111,-90,103
+PAGE 506: 10,86,47,-18,-92,-17,-10,121
+PAGE 507: -106,80,36,-23,29,53,70,31
+PAGE 508: -116,-30,34,-84,-48,74,-82,62
+PAGE 509: -5,-45,27,38,-98,58,-89,55
+PAGE 510: -114,74,-107,-48,-18,-114,22,17
+PAGE 511: 32,62,70,55,23,49,104,84
+---------------------------------------------
+PERFORMING RANDOMLY GENERATED TRANSACTIONS...
+Read transaction for virtual address: 101010101000
+Bringing page 341 into frame 0
+RAM: @00000000000 --> -33
+Write transaction for virtual address: 110110000000
+Bringing page 432 into frame 1
+RAM: @00000001000 <-- -119
+Read transaction for virtual address: 110000100111
+Bringing page 388 into frame 2
+RAM: @00000010111 --> 45
+Write transaction for virtual address: 000010100111
+Bringing page 20 into frame 3
+RAM: @00000011111 <-- 120
+Read transaction for virtual address: 101110101000
+Bringing page 373 into frame 4
+RAM: @00000100000 --> 117
+Write transaction for virtual address: 001000011011
+Bringing page 67 into frame 5
+RAM: @00000101011 <-- 108
+Read transaction for virtual address: 111010101011
+Bringing page 469 into frame 6
+RAM: @00000110011 --> 38
+Write transaction for virtual address: 100101000000
+Bringing page 296 into frame 7
+RAM: @00000111000 <-- 12
+Read transaction for virtual address: 111111011110
+Bringing page 507 into frame 8
+RAM: @00001000110 --> 70
+Write transaction for virtual address: 011000111100
+Bringing page 199 into frame 9
+RAM: @00001001100 <-- -31
+Read transaction for virtual address: 011100101111
+Bringing page 229 into frame 10
+RAM: @00001010111 --> 73
+Write transaction for virtual address: 110001010011
+Bringing page 394 into frame 11
+RAM: @00001011011 <-- 64
+Read transaction for virtual address: 110110001011
+Bringing page 433 into frame 12
+RAM: @00001100011 --> -38
+Write transaction for virtual address: 101100100110
+Bringing page 356 into frame 13
+RAM: @00001101110 <-- 32
+Read transaction for virtual address: 000011000100
+Bringing page 24 into frame 14
+RAM: @00001110100 --> 51
+Write transaction for virtual address: 011100100100
+Bringing page 228 into frame 15
+RAM: @00001111100 <-- 46
+Read transaction for virtual address: 100010000111
+Bringing page 272 into frame 16
+RAM: @00010000111 --> -66
+Write transaction for virtual address: 101010111011
+Bringing page 343 into frame 17
+RAM: @00010001011 <-- 25
+Read transaction for virtual address: 011011001110
+Bringing page 217 into frame 18
+RAM: @00010010110 --> 88
+Write transaction for virtual address: 011011111100
+Bringing page 223 into frame 19
+RAM: @00010011100 <-- 14
+Read transaction for virtual address: 111000000101
+Bringing page 448 into frame 20
+RAM: @00010100101 --> 52
+Write transaction for virtual address: 111100101100
+Bringing page 485 into frame 21
+RAM: @00010101100 <-- -115
+Read transaction for virtual address: 110011110101
+Bringing page 414 into frame 22
+RAM: @00010110101 --> -42
+Write transaction for virtual address: 011010000010
+Bringing page 208 into frame 23
+RAM: @00010111010 <-- -84
+Read transaction for virtual address: 101100010110
+Bringing page 354 into frame 24
+RAM: @00011000110 --> -51
+Write transaction for virtual address: 111111010000
+Bringing page 506 into frame 25
+RAM: @00011001000 <-- 106
+Read transaction for virtual address: 000100000111
+Bringing page 32 into frame 26
+RAM: @00011010111 --> -35
+Write transaction for virtual address: 110010110010
+Bringing page 406 into frame 27
+RAM: @00011011010 <-- -57
+Read transaction for virtual address: 101100101001
+Bringing page 357 into frame 28
+RAM: @00011100001 --> 79
+Write transaction for virtual address: 000111101010
+Bringing page 61 into frame 29
+RAM: @00011101010 <-- -116
+Read transaction for virtual address: 011110011101
+Bringing page 243 into frame 30
+RAM: @00011110101 --> -4
+Write transaction for virtual address: 111101000101
+Bringing page 488 into frame 31
+RAM: @00011111101 <-- 112
+Read transaction for virtual address: 110111100011
+Bringing page 444 into frame 32
+RAM: @00100000011 --> -124
+Write transaction for virtual address: 100100010001
+Bringing page 290 into frame 33
+RAM: @00100001001 <-- -101
+Read transaction for virtual address: 111001010000
+Bringing page 458 into frame 34
+RAM: @00100010000 --> 0
+Write transaction for virtual address: 011001011110
+Bringing page 203 into frame 35
+RAM: @00100011110 <-- -3
+Read transaction for virtual address: 001001011000
+Bringing page 75 into frame 36
+RAM: @00100100000 --> -117
+Write transaction for virtual address: 001000111100
+Bringing page 71 into frame 37
+RAM: @00100101100 <-- 31
+Read transaction for virtual address: 011101110001
+Bringing page 238 into frame 38
+RAM: @00100110001 --> -127
+Write transaction for virtual address: 000011110011
+Bringing page 30 into frame 39
+RAM: @00100111011 <-- 103
+Read transaction for virtual address: 010011001100
+Bringing page 153 into frame 40
+RAM: @00101000100 --> -11
+Write transaction for virtual address: 111001000000
+Bringing page 456 into frame 41
+RAM: @00101001000 <-- -25
+Read transaction for virtual address: 101100010010
+Page 354 is in memory
+RAM: @00011000010 --> -114
+Write transaction for virtual address: 000011110101
+Page 30 is in memory
+RAM: @00100111101 <-- -10
+Read transaction for virtual address: 001100010010
+Bringing page 98 into frame 42
+RAM: @00101010010 --> -54
+Write transaction for virtual address: 000101110000
+Bringing page 46 into frame 43
+RAM: @00101011000 <-- 74
+Read transaction for virtual address: 100111010100
+Bringing page 314 into frame 44
+RAM: @00101100100 --> -48
+Write transaction for virtual address: 011001101100
+Bringing page 205 into frame 45
+RAM: @00101101100 <-- 57
+Read transaction for virtual address: 100110101111
+Bringing page 309 into frame 46
+RAM: @00101110111 --> -34
+Write transaction for virtual address: 001100100000
+Bringing page 100 into frame 47
+RAM: @00101111000 <-- 113
+Read transaction for virtual address: 110010010000
+Bringing page 402 into frame 48
+RAM: @00110000000 --> -62
+Write transaction for virtual address: 111100010000
+Bringing page 482 into frame 49
+RAM: @00110001000 <-- 78
+Read transaction for virtual address: 010011010111
+Bringing page 154 into frame 50
+RAM: @00110010111 --> 48
+Write transaction for virtual address: 111011001111
+Bringing page 473 into frame 51
+RAM: @00110011111 <-- 66
+Read transaction for virtual address: 010011110111
+Bringing page 158 into frame 52
+RAM: @00110100111 --> -27
+Write transaction for virtual address: 101000001110
+Bringing page 321 into frame 53
+RAM: @00110101110 <-- -103
+Read transaction for virtual address: 111010110100
+Bringing page 470 into frame 54
+RAM: @00110110100 --> -7
+Write transaction for virtual address: 010100101001
+Bringing page 165 into frame 55
+RAM: @00110111001 <-- -2
+Read transaction for virtual address: 000110110001
+Bringing page 54 into frame 56
+RAM: @00111000001 --> -104
+Write transaction for virtual address: 001011100110
+Bringing page 92 into frame 57
+RAM: @00111001110 <-- -114
+Read transaction for virtual address: 010011001001
+Page 153 is in memory
+RAM: @00101000001 --> -64
+Write transaction for virtual address: 110110011111
+Bringing page 435 into frame 58
+RAM: @00111010111 <-- 20
+Read transaction for virtual address: 000010010001
+Bringing page 18 into frame 59
+RAM: @00111011001 --> 24
+Write transaction for virtual address: 001011111010
+Bringing page 95 into frame 60
+RAM: @00111100010 <-- -50
+Read transaction for virtual address: 110001101111
+Bringing page 397 into frame 61
+RAM: @00111101111 --> 40
+Write transaction for virtual address: 011010010010
+Bringing page 210 into frame 62
+RAM: @00111110010 <-- 103
+Read transaction for virtual address: 001011100110
+Page 92 is in memory
+RAM: @00111001110 --> -114
+Write transaction for virtual address: 001010110001
+Bringing page 86 into frame 63
+RAM: @00111111001 <-- 24
+Read transaction for virtual address: 100110000101
+Bringing page 304 into frame 64
+RAM: @01000000101 --> -64
+Write transaction for virtual address: 110101100111
+Bringing page 428 into frame 65
+RAM: @01000001111 <-- 95
+Read transaction for virtual address: 010100110001
+Bringing page 166 into frame 66
+RAM: @01000010001 --> 52
+Write transaction for virtual address: 010100111000
+Bringing page 167 into frame 67
+RAM: @01000011000 <-- 49
+Read transaction for virtual address: 001010011001
+Bringing page 83 into frame 68
+RAM: @01000100001 --> -88
+Write transaction for virtual address: 001110001000
+Bringing page 113 into frame 69
+RAM: @01000101000 <-- -7
+Read transaction for virtual address: 001001111100
+Bringing page 79 into frame 70
+RAM: @01000110100 --> -7
+Write transaction for virtual address: 111101011111
+Bringing page 491 into frame 71
+RAM: @01000111111 <-- -124
+Read transaction for virtual address: 100100110100
+Bringing page 294 into frame 72
+RAM: @01001000100 --> -50
+Write transaction for virtual address: 101110011110
+Bringing page 371 into frame 73
+RAM: @01001001110 <-- -17
+Read transaction for virtual address: 001011101101
+Bringing page 93 into frame 74
+RAM: @01001010101 --> 112
+Write transaction for virtual address: 111011001100
+Page 473 is in memory
+RAM: @00110011100 <-- -106
+Read transaction for virtual address: 000111000011
+Bringing page 56 into frame 75
+RAM: @01001011011 --> 124
+Write transaction for virtual address: 011101101111
+Bringing page 237 into frame 76
+RAM: @01001100111 <-- 113
+Read transaction for virtual address: 001001000100
+Bringing page 72 into frame 77
+RAM: @01001101100 --> -59
+Write transaction for virtual address: 010100101000
+Page 165 is in memory
+RAM: @00110111000 <-- 77
+Read transaction for virtual address: 001101000000
+Bringing page 104 into frame 78
+RAM: @01001110000 --> 12
+Write transaction for virtual address: 100100001001
+Bringing page 289 into frame 79
+RAM: @01001111001 <-- 62
+Read transaction for virtual address: 001011000011
+Bringing page 88 into frame 80
+RAM: @01010000011 --> 109
+Write transaction for virtual address: 110111101100
+Bringing page 445 into frame 81
+RAM: @01010001100 <-- -114
+Read transaction for virtual address: 000011100011
+Bringing page 28 into frame 82
+RAM: @01010010011 --> -21
+Write transaction for virtual address: 110000010010
+Bringing page 386 into frame 83
+RAM: @01010011010 <-- -27
+Read transaction for virtual address: 010011111100
+Bringing page 159 into frame 84
+RAM: @01010100100 --> -28
+Write transaction for virtual address: 000101010101
+Bringing page 42 into frame 85
+RAM: @01010101101 <-- 98
+Read transaction for virtual address: 011000001000
+Bringing page 193 into frame 86
+RAM: @01010110000 --> -9
+Write transaction for virtual address: 100110001001
+Bringing page 305 into frame 87
+RAM: @01010111001 <-- 43
+Read transaction for virtual address: 010100101011
+Page 165 is in memory
+RAM: @00110111011 --> 109
+Write transaction for virtual address: 110000011111
+Bringing page 387 into frame 88
+RAM: @01011000111 <-- 99
+Read transaction for virtual address: 010110110111
+Bringing page 182 into frame 89
+RAM: @01011001111 --> -77
+Write transaction for virtual address: 000100100001
+Bringing page 36 into frame 90
+RAM: @01011010001 <-- -77
+Read transaction for virtual address: 001011000101
+Page 88 is in memory
+RAM: @01010000101 --> -43
+Write transaction for virtual address: 011001011110
+Page 203 is in memory
+RAM: @00100011110 <-- 76
+Read transaction for virtual address: 000011100111
+Page 28 is in memory
+RAM: @01010010111 --> -78
+Write transaction for virtual address: 011011011010
+Bringing page 219 into frame 91
+RAM: @01011011010 <-- -3
+Read transaction for virtual address: 010110111100
+Bringing page 183 into frame 92
+RAM: @01011100100 --> -85
+Write transaction for virtual address: 011010000110
+Page 208 is in memory
+RAM: @00010111110 <-- 121
+Read transaction for virtual address: 011101000010
+Bringing page 232 into frame 93
+RAM: @01011101010 --> -101
+Write transaction for virtual address: 001111101111
+Bringing page 125 into frame 94
+RAM: @01011110111 <-- -66
+Read transaction for virtual address: 100110000110
+Page 304 is in memory
+RAM: @01000000110 --> -23
+Write transaction for virtual address: 011001100110
+Bringing page 204 into frame 95
+RAM: @01011111110 <-- 82
+Read transaction for virtual address: 010101000101
+Bringing page 168 into frame 96
+RAM: @01100000101 --> -106
+Write transaction for virtual address: 011100100000
+Page 228 is in memory
+RAM: @00001111000 <-- -101
+Read transaction for virtual address: 100100100000
+Bringing page 292 into frame 97
+RAM: @01100001000 --> -102
+Write transaction for virtual address: 000100010000
+Bringing page 34 into frame 98
+RAM: @01100010000 <-- 53
+Read transaction for virtual address: 001011100111
+Page 92 is in memory
+RAM: @00111001111 --> 40
+Write transaction for virtual address: 101001001010
+Bringing page 329 into frame 99
+RAM: @01100011010 <-- 31
+Read transaction for virtual address: 111011101001
+Bringing page 477 into frame 100
+RAM: @01100100001 --> 22
+Write transaction for virtual address: 100111000010
+Bringing page 312 into frame 101
+RAM: @01100101010 <-- 127
+Read transaction for virtual address: 001000011100
+Page 67 is in memory
+RAM: @00000101100 --> -56
+Write transaction for virtual address: 000000011001
+Bringing page 3 into frame 102
+RAM: @01100110001 <-- -121
+Read transaction for virtual address: 000111101010
+Page 61 is in memory
+RAM: @00011101010 --> -116
+Write transaction for virtual address: 000010110100
+Bringing page 22 into frame 103
+RAM: @01100111100 <-- 46
+Read transaction for virtual address: 000110010110
+Bringing page 50 into frame 104
+RAM: @01101000110 --> 61
+Write transaction for virtual address: 010101111101
+Bringing page 175 into frame 105
+RAM: @01101001101 <-- -51
+Read transaction for virtual address: 001100001011
+Bringing page 97 into frame 106
+RAM: @01101010011 --> -49
+Write transaction for virtual address: 011010100011
+Bringing page 212 into frame 107
+RAM: @01101011011 <-- 63
+Read transaction for virtual address: 000000001001
+Bringing page 1 into frame 108
+RAM: @01101100001 --> 55
+Write transaction for virtual address: 010001000001
+Bringing page 136 into frame 109
+RAM: @01101101001 <-- 73
+Read transaction for virtual address: 001100001011
+Page 97 is in memory
+RAM: @01101010011 --> -49
+Write transaction for virtual address: 110001101001
+Page 397 is in memory
+RAM: @00111101001 <-- -8
+Read transaction for virtual address: 010110100100
+Bringing page 180 into frame 110
+RAM: @01101110100 --> -128
+Write transaction for virtual address: 000110001101
+Bringing page 49 into frame 111
+RAM: @01101111101 <-- -75
+Read transaction for virtual address: 011100000010
+Bringing page 224 into frame 112
+RAM: @01110000010 --> 125
+Write transaction for virtual address: 011110101100
+Bringing page 245 into frame 113
+RAM: @01110001100 <-- 119
+Read transaction for virtual address: 000100001110
+Bringing page 33 into frame 114
+RAM: @01110010110 --> 85
+Write transaction for virtual address: 110001110100
+Bringing page 398 into frame 115
+RAM: @01110011100 <-- -119
+Read transaction for virtual address: 101011010010
+Bringing page 346 into frame 116
+RAM: @01110100010 --> 69
+Write transaction for virtual address: 001000101101
+Bringing page 69 into frame 117
+RAM: @01110101101 <-- -50
+Read transaction for virtual address: 010011010010
+Page 154 is in memory
+RAM: @00110010010 --> 89
+Write transaction for virtual address: 010110011000
+Bringing page 179 into frame 118
+RAM: @01110110000 <-- -104
+Read transaction for virtual address: 011011101010
+Bringing page 221 into frame 119
+RAM: @01110111010 --> -105
+Write transaction for virtual address: 101010000010
+Bringing page 336 into frame 120
+RAM: @01111000010 <-- 2
+Read transaction for virtual address: 000000111001
+Bringing page 7 into frame 121
+RAM: @01111001001 --> 122
+Write transaction for virtual address: 100010110100
+Bringing page 278 into frame 122
+RAM: @01111010100 <-- -52
+Read transaction for virtual address: 001110010011
+Bringing page 114 into frame 123
+RAM: @01111011011 --> 43
+Write transaction for virtual address: 101100000101
+Bringing page 352 into frame 124
+RAM: @01111100101 <-- -31
+Read transaction for virtual address: 101011100001
+Bringing page 348 into frame 125
+RAM: @01111101001 --> 54
+Write transaction for virtual address: 101100101110
+Page 357 is in memory
+RAM: @00011100110 <-- -115
+Read transaction for virtual address: 100101110100
+Bringing page 302 into frame 126
+RAM: @01111110100 --> 42
+Write transaction for virtual address: 100000001000
+Bringing page 257 into frame 127
+RAM: @01111111000 <-- 74
+Read transaction for virtual address: 011001100001
+Page 204 is in memory
+RAM: @01011111001 --> -94
+Write transaction for virtual address: 001010101110
+Bringing page 85 into frame 128
+RAM: @10000000110 <-- 76
+Read transaction for virtual address: 011010101110
+Bringing page 213 into frame 129
+RAM: @10000001110 --> 20
+Write transaction for virtual address: 010110111111
+Page 183 is in memory
+RAM: @01011100111 <-- -76
+Read transaction for virtual address: 001100010011
+Page 98 is in memory
+RAM: @00101010011 --> -62
+Write transaction for virtual address: 010110001110
+Bringing page 177 into frame 130
+RAM: @10000010110 <-- 113
+Read transaction for virtual address: 110001011101
+Bringing page 395 into frame 131
+RAM: @10000011101 --> 123
+Write transaction for virtual address: 111111010001
+Page 506 is in memory
+RAM: @00011001001 <-- -24
+Read transaction for virtual address: 101010011010
+Bringing page 339 into frame 132
+RAM: @10000100010 --> -108
+Write transaction for virtual address: 000110001111
+Page 49 is in memory
+RAM: @01101111111 <-- 28
+Read transaction for virtual address: 001000001100
+Bringing page 65 into frame 133
+RAM: @10000101100 --> -86
+Write transaction for virtual address: 011100100110
+Page 228 is in memory
+RAM: @00001111110 <-- -99
+Read transaction for virtual address: 001001110100
+Bringing page 78 into frame 134
+RAM: @10000110100 --> -3
+Write transaction for virtual address: 011000101001
+Bringing page 197 into frame 135
+RAM: @10000111001 <-- 40
+Read transaction for virtual address: 110000101100
+Bringing page 389 into frame 136
+RAM: @10001000100 --> -33
+Write transaction for virtual address: 000001100010
+Bringing page 12 into frame 137
+RAM: @10001001010 <-- -6
+Read transaction for virtual address: 101010101101
+Page 341 is in memory
+RAM: @00000000101 --> -76
+Write transaction for virtual address: 110000100011
+Page 388 is in memory
+RAM: @00000010011 <-- -29
+Read transaction for virtual address: 101110101110
+Page 373 is in memory
+RAM: @00000100110 --> 60
+Write transaction for virtual address: 000001101010
+Bringing page 13 into frame 138
+RAM: @10001010010 <-- 86
+Read transaction for virtual address: 000100111100
+Bringing page 39 into frame 139
+RAM: @10001011100 --> 64
+Write transaction for virtual address: 110110000011
+Page 432 is in memory
+RAM: @00000001011 <-- 84
+Read transaction for virtual address: 101111000010
+Bringing page 376 into frame 140
+RAM: @10001100010 --> -25
+Write transaction for virtual address: 000110010101
+Page 50 is in memory
+RAM: @01101000101 <-- -120
+Read transaction for virtual address: 001101011001
+Bringing page 107 into frame 141
+RAM: @10001101001 --> 74
+Write transaction for virtual address: 101101000100
+Bringing page 360 into frame 142
+RAM: @10001110100 <-- -60
+Read transaction for virtual address: 001111101011
+Page 125 is in memory
+RAM: @01011110011 --> 111
+Write transaction for virtual address: 111010111001
+Bringing page 471 into frame 143
+RAM: @10001111001 <-- 64
+Read transaction for virtual address: 100111001101
+Bringing page 313 into frame 144
+RAM: @10010000101 --> -62
+Write transaction for virtual address: 111011110111
+Bringing page 478 into frame 145
+RAM: @10010001111 <-- -60
+Read transaction for virtual address: 110101011000
+Bringing page 427 into frame 146
+RAM: @10010010000 --> 67
+Write transaction for virtual address: 011111110100
+Bringing page 254 into frame 147
+RAM: @10010011100 <-- -111
+Read transaction for virtual address: 010001000010
+Page 136 is in memory
+RAM: @01101101010 --> 8
+Write transaction for virtual address: 111001010010
+Page 458 is in memory
+RAM: @00100010010 <-- 68
+Read transaction for virtual address: 101000000111
+Bringing page 320 into frame 148
+RAM: @10010100111 --> 102
+Write transaction for virtual address: 010111011011
+Bringing page 187 into frame 149
+RAM: @10010101011 <-- -7
+Read transaction for virtual address: 010001101101
+Bringing page 141 into frame 150
+RAM: @10010110101 --> -119
+Write transaction for virtual address: 011001111110
+Bringing page 207 into frame 151
+RAM: @10010111110 <-- 102
+Read transaction for virtual address: 110011001010
+Bringing page 409 into frame 152
+RAM: @10011000010 --> 6
+Write transaction for virtual address: 011010010010
+Page 210 is in memory
+RAM: @00111110010 <-- -39
+Read transaction for virtual address: 101101010010
+Bringing page 362 into frame 153
+RAM: @10011001010 --> 112
+Write transaction for virtual address: 100110100100
+Bringing page 308 into frame 154
+RAM: @10011010100 <-- -65
+Read transaction for virtual address: 100011111001
+Bringing page 287 into frame 155
+RAM: @10011011001 --> -52
+Write transaction for virtual address: 010100110000
+Page 166 is in memory
+RAM: @01000010000 <-- -9
+Read transaction for virtual address: 010001110000
+Bringing page 142 into frame 156
+RAM: @10011100000 --> 98
+Write transaction for virtual address: 100111100001
+Bringing page 316 into frame 157
+RAM: @10011101001 <-- -71
+Read transaction for virtual address: 000010100011
+Page 20 is in memory
+RAM: @00000011011 --> -3
+Write transaction for virtual address: 000101110101
+Page 46 is in memory
+RAM: @00101011101 <-- 23
+Read transaction for virtual address: 000010101100
+Bringing page 21 into frame 158
+RAM: @10011110100 --> -32
+Write transaction for virtual address: 000110100100
+Bringing page 52 into frame 159
+RAM: @10011111100 <-- 80
+Read transaction for virtual address: 010100011001
+Bringing page 163 into frame 160
+RAM: @10100000001 --> 88
+Write transaction for virtual address: 100011011111
+Bringing page 283 into frame 161
+RAM: @10100001111 <-- -54
+END OF MEMORY TRANSACTIONS
+---------------------------------------------
+MEMORY CONTENT:
+00000000000: -33
+00000000001: -7
+00000000010: 94
+00000000011: 20
+00000000100: 26
+00000000101: -76
+00000000110: 94
+00000000111: -86
+00000001000: -119
+00000001001: -90
+00000001010: -31
+00000001011: 84
+00000001100: 66
+00000001101: -18
+00000001110: 16
+00000001111: -5
+00000010000: 20
+00000010001: -119
+00000010010: 92
+00000010011: -29
+00000010100: -39
+00000010101: 97
+00000010110: 66
+00000010111: 45
+00000011000: -27
+00000011001: -57
+00000011010: -101
+00000011011: -3
+00000011100: 37
+00000011101: 70
+00000011110: 26
+00000011111: 120
+00000100000: 117
+00000100001: 58
+00000100010: 45
+00000100011: -33
+00000100100: -50
+00000100101: 49
+00000100110: 60
+00000100111: -113
+00000101000: 44
+00000101001: 123
+00000101010: -121
+00000101011: 108
+00000101100: -56
+00000101101: 66
+00000101110: 115
+00000101111: -51
+00000110000: 98
+00000110001: 55
+00000110010: -117
+00000110011: 38
+00000110100: -106
+00000110101: 36
+00000110110: -50
+00000110111: 33
+00000111000: 12
+00000111001: 122
+00000111010: -29
+00000111011: 71
+00000111100: -111
+00000111101: 68
+00000111110: 86
+00000111111: -15
+00001000000: -106
+00001000001: 80
+00001000010: 36
+00001000011: -23
+00001000100: 29
+00001000101: 53
+00001000110: 70
+00001000111: 31
+00001001000: -13
+00001001001: -52
+00001001010: -41
+00001001011: -23
+00001001100: -31
+00001001101: 91
+00001001110: -85
+00001001111: 92
+00001010000: -21
+00001010001: 76
+00001010010: -125
+00001010011: 94
+00001010100: 57
+00001010101: -128
+00001010110: 88
+00001010111: 73
+00001011000: -78
+00001011001: -115
+00001011010: 101
+00001011011: 64
+00001011100: 19
+00001011101: 31
+00001011110: -8
+00001011111: -22
+00001100000: 51
+00001100001: -11
+00001100010: -46
+00001100011: -38
+00001100100: -6
+00001100101: -29
+00001100110: -88
+00001100111: -60
+00001101000: 89
+00001101001: 51
+00001101010: 66
+00001101011: 18
+00001101100: -103
+00001101101: 81
+00001101110: 32
+00001101111: 10
+00001110000: -85
+00001110001: -115
+00001110010: 12
+00001110011: -106
+00001110100: 51
+00001110101: -9
+00001110110: 51
+00001110111: -28
+00001111000: -101
+00001111001: -89
+00001111010: -46
+00001111011: -4
+00001111100: 46
+00001111101: 87
+00001111110: -99
+00001111111: 98
+00010000000: -13
+00010000001: 47
+00010000010: 59
+00010000011: -95
+00010000100: 112
+00010000101: 17
+00010000110: -29
+00010000111: -66
+00010001000: 79
+00010001001: 46
+00010001010: -99
+00010001011: 25
+00010001100: -96
+00010001101: -45
+00010001110: 79
+00010001111: -31
+00010010000: -99
+00010010001: 124
+00010010010: -97
+00010010011: 40
+00010010100: 101
+00010010101: 3
+00010010110: 88
+00010010111: -77
+00010011000: -113
+00010011001: 37
+00010011010: 102
+00010011011: 4
+00010011100: 14
+00010011101: -9
+00010011110: 87
+00010011111: 82
+00010100000: 14
+00010100001: 57
+00010100010: 22
+00010100011: -74
+00010100100: -28
+00010100101: 52
+00010100110: 107
+00010100111: 6
+00010101000: -34
+00010101001: 36
+00010101010: -108
+00010101011: 18
+00010101100: -115
+00010101101: -32
+00010101110: -81
+00010101111: 61
+00010110000: 69
+00010110001: 116
+00010110010: -62
+00010110011: -84
+00010110100: -110
+00010110101: -42
+00010110110: -100
+00010110111: 110
+00010111000: 10
+00010111001: -32
+00010111010: -84
+00010111011: -84
+00010111100: -107
+00010111101: -37
+00010111110: 121
+00010111111: 37
+00011000000: 78
+00011000001: 107
+00011000010: -114
+00011000011: 65
+00011000100: -9
+00011000101: -104
+00011000110: -51
+00011000111: -72
+00011001000: 106
+00011001001: -24
+00011001010: 47
+00011001011: -18
+00011001100: -92
+00011001101: -17
+00011001110: -10
+00011001111: 121
+00011010000: -51
+00011010001: 43
+00011010010: -45
+00011010011: -87
+00011010100: -33
+00011010101: -55
+00011010110: -78
+00011010111: -35
+00011011000: 119
+00011011001: 102
+00011011010: -57
+00011011011: 126
+00011011100: 43
+00011011101: 22
+00011011110: -1
+00011011111: -32
+00011100000: 2
+00011100001: 79
+00011100010: 86
+00011100011: 117
+00011100100: -16
+00011100101: 14
+00011100110: -115
+00011100111: 16
+00011101000: 63
+00011101001: -38
+00011101010: -116
+00011101011: 108
+00011101100: -99
+00011101101: -99
+00011101110: 86
+00011101111: 76
+00011110000: 21
+00011110001: 86
+00011110010: -45
+00011110011: -29
+00011110100: 60
+00011110101: -4
+00011110110: 79
+00011110111: -82
+00011111000: -47
+00011111001: 38
+00011111010: -80
+00011111011: -15
+00011111100: -17
+00011111101: 112
+00011111110: 34
+00011111111: 24
+00100000000: 58
+00100000001: 118
+00100000010: 32
+00100000011: -124
+00100000100: 121
+00100000101: 33
+00100000110: -53
+00100000111: -114
+00100001000: -16
+00100001001: -101
+00100001010: 84
+00100001011: 3
+00100001100: -77
+00100001101: -53
+00100001110: -45
+00100001111: 15
+00100010000: 0
+00100010001: 74
+00100010010: 68
+00100010011: 113
+00100010100: -117
+00100010101: 119
+00100010110: -21
+00100010111: -118
+00100011000: 67
+00100011001: -58
+00100011010: 69
+00100011011: 45
+00100011100: -43
+00100011101: 13
+00100011110: 76
+00100011111: -53
+00100100000: -117
+00100100001: -124
+00100100010: 32
+00100100011: -71
+00100100100: -108
+00100100101: -55
+00100100110: -86
+00100100111: -14
+00100101000: 77
+00100101001: -114
+00100101010: 53
+00100101011: 22
+00100101100: 31
+00100101101: 47
+00100101110: -59
+00100101111: -68
+00100110000: -93
+00100110001: -127
+00100110010: 12
+00100110011: 119
+00100110100: -31
+00100110101: 76
+00100110110: 5
+00100110111: 45
+00100111000: 19
+00100111001: 38
+00100111010: -83
+00100111011: 103
+00100111100: 100
+00100111101: -10
+00100111110: 28
+00100111111: -101
+00101000000: 119
+00101000001: -64
+00101000010: 11
+00101000011: 93
+00101000100: -11
+00101000101: 45
+00101000110: 39
+00101000111: -81
+00101001000: -25
+00101001001: 30
+00101001010: 63
+00101001011: 127
+00101001100: -125
+00101001101: -7
+00101001110: -59
+00101001111: -27
+00101010000: 45
+00101010001: -34
+00101010010: -54
+00101010011: -62
+00101010100: -122
+00101010101: -40
+00101010110: 45
+00101010111: 126
+00101011000: 74
+00101011001: -87
+00101011010: -80
+00101011011: -16
+00101011100: -27
+00101011101: 23
+00101011110: 32
+00101011111: 67
+00101100000: -86
+00101100001: -84
+00101100010: 7
+00101100011: -49
+00101100100: -48
+00101100101: -8
+00101100110: -78
+00101100111: -103
+00101101000: 89
+00101101001: 100
+00101101010: 71
+00101101011: -60
+00101101100: 57
+00101101101: 26
+00101101110: 62
+00101101111: -26
+00101110000: 100
+00101110001: -109
+00101110010: -72
+00101110011: -74
+00101110100: -19
+00101110101: 117
+00101110110: -7
+00101110111: -34
+00101111000: 113
+00101111001: -32
+00101111010: -4
+00101111011: -14
+00101111100: 82
+00101111101: -91
+00101111110: -65
+00101111111: -57
+00110000000: -62
+00110000001: 28
+00110000010: -127
+00110000011: 30
+00110000100: 47
+00110000101: -81
+00110000110: 85
+00110000111: -8
+00110001000: 78
+00110001001: 122
+00110001010: -55
+00110001011: -12
+00110001100: -50
+00110001101: -119
+00110001110: -26
+00110001111: 35
+00110010000: -102
+00110010001: -52
+00110010010: 89
+00110010011: -114
+00110010100: 18
+00110010101: 107
+00110010110: -3
+00110010111: 48
+00110011000: -32
+00110011001: -16
+00110011010: -19
+00110011011: 82
+00110011100: -106
+00110011101: 36
+00110011110: -23
+00110011111: 66
+00110100000: 106
+00110100001: 48
+00110100010: -115
+00110100011: 81
+00110100100: -118
+00110100101: 102
+00110100110: -86
+00110100111: -27
+00110101000: 82
+00110101001: -64
+00110101010: -88
+00110101011: -53
+00110101100: -106
+00110101101: 46
+00110101110: -103
+00110101111: -29
+00110110000: 125
+00110110001: -123
+00110110010: -65
+00110110011: -40
+00110110100: -7
+00110110101: -66
+00110110110: -124
+00110110111: 111
+00110111000: 77
+00110111001: -2
+00110111010: -29
+00110111011: 109
+00110111100: -55
+00110111101: -104
+00110111110: 25
+00110111111: -105
+00111000000: 45
+00111000001: -104
+00111000010: -87
+00111000011: 57
+00111000100: -3
+00111000101: -45
+00111000110: -114
+00111000111: 60
+00111001000: -2
+00111001001: -96
+00111001010: -123
+00111001011: 66
+00111001100: 58
+00111001101: -28
+00111001110: -114
+00111001111: 40
+00111010000: -21
+00111010001: -5
+00111010010: -39
+00111010011: 69
+00111010100: -76
+00111010101: -63
+00111010110: -93
+00111010111: 20
+00111011000: -58
+00111011001: 24
+00111011010: -109
+00111011011: -122
+00111011100: -51
+00111011101: 15
+00111011110: -30
+00111011111: 119
+00111100000: 96
+00111100001: -36
+00111100010: -50
+00111100011: -2
+00111100100: 57
+00111100101: 114
+00111100110: 43
+00111100111: 83
+00111101000: 3
+00111101001: -8
+00111101010: -74
+00111101011: 16
+00111101100: 111
+00111101101: 77
+00111101110: -29
+00111101111: 40
+00111110000: -61
+00111110001: -70
+00111110010: -39
+00111110011: -14
+00111110100: 72
+00111110101: -116
+00111110110: -55
+00111110111: -113
+00111111000: -112
+00111111001: 24
+00111111010: 94
+00111111011: -87
+00111111100: -111
+00111111101: -86
+00111111110: 71
+00111111111: 100
+01000000000: 70
+01000000001: 31
+01000000010: -68
+01000000011: -61
+01000000100: 57
+01000000101: -64
+01000000110: -23
+01000000111: -89
+01000001000: -100
+01000001001: -78
+01000001010: -15
+01000001011: 119
+01000001100: -111
+01000001101: 111
+01000001110: 42
+01000001111: 95
+01000010000: -9
+01000010001: 52
+01000010010: -107
+01000010011: 59
+01000010100: -29
+01000010101: 46
+01000010110: 20
+01000010111: -35
+01000011000: 49
+01000011001: 64
+01000011010: -95
+01000011011: -6
+01000011100: 28
+01000011101: -86
+01000011110: 108
+01000011111: 57
+01000100000: 30
+01000100001: -88
+01000100010: 39
+01000100011: -75
+01000100100: 84
+01000100101: 87
+01000100110: 48
+01000100111: -27
+01000101000: -7
+01000101001: 28
+01000101010: 34
+01000101011: 44
+01000101100: -42
+01000101101: -127
+01000101110: -11
+01000101111: 119
+01000110000: 36
+01000110001: -22
+01000110010: -61
+01000110011: -7
+01000110100: -7
+01000110101: -1
+01000110110: -80
+01000110111: 54
+01000111000: -123
+01000111001: -16
+01000111010: 86
+01000111011: -91
+01000111100: 39
+01000111101: 11
+01000111110: 125
+01000111111: -124
+01001000000: 31
+01001000001: 34
+01001000010: -47
+01001000011: 35
+01001000100: -50
+01001000101: 98
+01001000110: -118
+01001000111: -114
+01001001000: 67
+01001001001: 14
+01001001010: -31
+01001001011: 6
+01001001100: -23
+01001001101: 7
+01001001110: -17
+01001001111: -4
+01001010000: 72
+01001010001: 44
+01001010010: -33
+01001010011: 18
+01001010100: 20
+01001010101: 112
+01001010110: 108
+01001010111: 9
+01001011000: -62
+01001011001: -9
+01001011010: 3
+01001011011: 124
+01001011100: 51
+01001011101: 120
+01001011110: 52
+01001011111: 45
+01001100000: 33
+01001100001: -70
+01001100010: -4
+01001100011: -125
+01001100100: 125
+01001100101: -68
+01001100110: -77
+01001100111: 113
+01001101000: -25
+01001101001: -44
+01001101010: -64
+01001101011: 38
+01001101100: -59
+01001101101: 35
+01001101110: 29
+01001101111: -78
+01001110000: 12
+01001110001: 124
+01001110010: -127
+01001110011: -58
+01001110100: -111
+01001110101: -12
+01001110110: 20
+01001110111: 98
+01001111000: -51
+01001111001: 62
+01001111010: 46
+01001111011: -23
+01001111100: -69
+01001111101: 27
+01001111110: -73
+01001111111: 104
+01010000000: -46
+01010000001: -18
+01010000010: -92
+01010000011: 109
+01010000100: 65
+01010000101: -43
+01010000110: 65
+01010000111: -4
+01010001000: 22
+01010001001: 12
+01010001010: -30
+01010001011: 118
+01010001100: -114
+01010001101: 111
+01010001110: -87
+01010001111: 50
+01010010000: 39
+01010010001: 79
+01010010010: -105
+01010010011: -21
+01010010100: 11
+01010010101: 16
+01010010110: 68
+01010010111: -78
+01010011000: 98
+01010011001: -27
+01010011010: -27
+01010011011: -73
+01010011100: -125
+01010011101: 101
+01010011110: 89
+01010011111: 20
+01010100000: -105
+01010100001: -101
+01010100010: 104
+01010100011: 2
+01010100100: -28
+01010100101: -41
+01010100110: 108
+01010100111: 37
+01010101000: 102
+01010101001: 115
+01010101010: 16
+01010101011: -63
+01010101100: -39
+01010101101: 98
+01010101110: 12
+01010101111: -34
+01010110000: -9
+01010110001: 91
+01010110010: 114
+01010110011: 66
+01010110100: 38
+01010110101: 52
+01010110110: -88
+01010110111: 41
+01010111000: -35
+01010111001: 43
+01010111010: 76
+01010111011: -7
+01010111100: 117
+01010111101: -58
+01010111110: -75
+01010111111: -54
+01011000000: -48
+01011000001: -113
+01011000010: -125
+01011000011: 17
+01011000100: -87
+01011000101: -49
+01011000110: -93
+01011000111: 99
+01011001000: 63
+01011001001: 103
+01011001010: 42
+01011001011: 80
+01011001100: 38
+01011001101: 73
+01011001110: -7
+01011001111: -77
+01011010000: 117
+01011010001: -77
+01011010010: 108
+01011010011: 119
+01011010100: 117
+01011010101: 118
+01011010110: 1
+01011010111: 110
+01011011000: 119
+01011011001: 56
+01011011010: -3
+01011011011: 75
+01011011100: -27
+01011011101: -59
+01011011110: -78
+01011011111: -63
+01011100000: -62
+01011100001: 92
+01011100010: -124
+01011100011: 91
+01011100100: -85
+01011100101: -20
+01011100110: -45
+01011100111: -76
+01011101000: -86
+01011101001: -108
+01011101010: -101
+01011101011: 73
+01011101100: -121
+01011101101: -35
+01011101110: 95
+01011101111: 114
+01011110000: -2
+01011110001: -27
+01011110010: -104
+01011110011: 111
+01011110100: 97
+01011110101: 40
+01011110110: -31
+01011110111: -66
+01011111000: -25
+01011111001: -94
+01011111010: -106
+01011111011: -119
+01011111100: 32
+01011111101: 106
+01011111110: 82
+01011111111: 92
+01100000000: -89
+01100000001: -96
+01100000010: -8
+01100000011: 123
+01100000100: 50
+01100000101: -106
+01100000110: 84
+01100000111: 117
+01100001000: -102
+01100001001: 67
+01100001010: 50
+01100001011: 52
+01100001100: 104
+01100001101: 78
+01100001110: -15
+01100001111: 121
+01100010000: 53
+01100010001: 66
+01100010010: 35
+01100010011: 24
+01100010100: 86
+01100010101: 2
+01100010110: 91
+01100010111: 32
+01100011000: -71
+01100011001: -90
+01100011010: 31
+01100011011: -31
+01100011100: -78
+01100011101: -75
+01100011110: -47
+01100011111: 86
+01100100000: -77
+01100100001: 22
+01100100010: 0
+01100100011: 42
+01100100100: -70
+01100100101: -22
+01100100110: -68
+01100100111: 8
+01100101000: -90
+01100101001: -128
+01100101010: 127
+01100101011: 24
+01100101100: 20
+01100101101: 115
+01100101110: 43
+01100101111: 67
+01100110000: -31
+01100110001: -121
+01100110010: 62
+01100110011: -51
+01100110100: 104
+01100110101: 80
+01100110110: 27
+01100110111: -13
+01100111000: -96
+01100111001: 23
+01100111010: -10
+01100111011: -4
+01100111100: 46
+01100111101: -1
+01100111110: -121
+01100111111: 40
+01101000000: 45
+01101000001: -87
+01101000010: 93
+01101000011: -45
+01101000100: -84
+01101000101: -120
+01101000110: 61
+01101000111: 32
+01101001000: 95
+01101001001: -85
+01101001010: -27
+01101001011: -36
+01101001100: -62
+01101001101: -51
+01101001110: -84
+01101001111: 10
+01101010000: 120
+01101010001: -39
+01101010010: -69
+01101010011: -49
+01101010100: -54
+01101010101: 91
+01101010110: 94
+01101010111: -67
+01101011000: 13
+01101011001: -28
+01101011010: -118
+01101011011: 63
+01101011100: 28
+01101011101: -72
+01101011110: -96
+01101011111: 123
+01101100000: -113
+01101100001: 55
+01101100010: 105
+01101100011: 119
+01101100100: -24
+01101100101: 32
+01101100110: 101
+01101100111: -33
+01101101000: -116
+01101101001: 73
+01101101010: 8
+01101101011: -78
+01101101100: 75
+01101101101: -128
+01101101110: -84
+01101101111: 12
+01101110000: -2
+01101110001: 73
+01101110010: -1
+01101110011: -126
+01101110100: -128
+01101110101: -18
+01101110110: 79
+01101110111: 3
+01101111000: -3
+01101111001: -13
+01101111010: -110
+01101111011: 45
+01101111100: 70
+01101111101: -75
+01101111110: 110
+01101111111: 28
+01110000000: 0
+01110000001: -102
+01110000010: 125
+01110000011: 60
+01110000100: 89
+01110000101: -63
+01110000110: -80
+01110000111: 124
+01110001000: -59
+01110001001: 59
+01110001010: 16
+01110001011: -72
+01110001100: 119
+01110001101: 19
+01110001110: 64
+01110001111: -60
+01110010000: -2
+01110010001: -74
+01110010010: 92
+01110010011: -68
+01110010100: -55
+01110010101: -33
+01110010110: 85
+01110010111: -128
+01110011000: -29
+01110011001: -112
+01110011010: 119
+01110011011: 93
+01110011100: -119
+01110011101: 6
+01110011110: 110
+01110011111: 127
+01110100000: 47
+01110100001: 7
+01110100010: 69
+01110100011: -75
+01110100100: 64
+01110100101: 96
+01110100110: 97
+01110100111: -9
+01110101000: -72
+01110101001: -94
+01110101010: 104
+01110101011: 65
+01110101100: 104
+01110101101: -50
+01110101110: 2
+01110101111: 14
+01110110000: -104
+01110110001: 103
+01110110010: 33
+01110110011: 72
+01110110100: 88
+01110110101: 86
+01110110110: -103
+01110110111: 47
+01110111000: -88
+01110111001: 63
+01110111010: -105
+01110111011: -99
+01110111100: -41
+01110111101: -48
+01110111110: 20
+01110111111: -35
+01111000000: -123
+01111000001: -18
+01111000010: 2
+01111000011: 39
+01111000100: 63
+01111000101: 59
+01111000110: -53
+01111000111: 8
+01111001000: -5
+01111001001: 122
+01111001010: 51
+01111001011: -45
+01111001100: 76
+01111001101: -114
+01111001110: 37
+01111001111: 86
+01111010000: 118
+01111010001: -83
+01111010010: 53
+01111010011: -85
+01111010100: -52
+01111010101: 76
+01111010110: 97
+01111010111: 127
+01111011000: 37
+01111011001: -127
+01111011010: -114
+01111011011: 43
+01111011100: 29
+01111011101: -27
+01111011110: -69
+01111011111: 45
+01111100000: -17
+01111100001: 41
+01111100010: 2
+01111100011: 61
+01111100100: -98
+01111100101: -31
+01111100110: 96
+01111100111: 62
+01111101000: -78
+01111101001: 54
+01111101010: -116
+01111101011: 96
+01111101100: 70
+01111101101: 109
+01111101110: -106
+01111101111: 121
+01111110000: -60
+01111110001: 123
+01111110010: 1
+01111110011: 57
+01111110100: 42
+01111110101: 114
+01111110110: 29
+01111110111: 56
+01111111000: 74
+01111111001: 109
+01111111010: -36
+01111111011: 35
+01111111100: -32
+01111111101: -127
+01111111110: 3
+01111111111: -88
+10000000000: 36
+10000000001: -44
+10000000010: -16
+10000000011: 74
+10000000100: 126
+10000000101: 108
+10000000110: 76
+10000000111: -125
+10000001000: 31
+10000001001: 94
+10000001010: 53
+10000001011: -24
+10000001100: 18
+10000001101: 60
+10000001110: 20
+10000001111: -104
+10000010000: -53
+10000010001: 37
+10000010010: -101
+10000010011: -96
+10000010100: -29
+10000010101: 66
+10000010110: 113
+10000010111: -111
+10000011000: 79
+10000011001: -100
+10000011010: 17
+10000011011: -59
+10000011100: 25
+10000011101: 123
+10000011110: -48
+10000011111: -124
+10000100000: 51
+10000100001: -49
+10000100010: -108
+10000100011: -16
+10000100100: -31
+10000100101: 87
+10000100110: 104
+10000100111: 30
+10000101000: -31
+10000101001: 50
+10000101010: 55
+10000101011: 41
+10000101100: -86
+10000101101: -115
+10000101110: 27
+10000101111: 112
+10000110000: 64
+10000110001: -30
+10000110010: 98
+10000110011: 99
+10000110100: -3
+10000110101: 21
+10000110110: 4
+10000110111: -64
+10000111000: -101
+10000111001: 40
+10000111010: -53
+10000111011: -53
+10000111100: -115
+10000111101: 65
+10000111110: -96
+10000111111: 73
+10001000000: -1
+10001000001: -32
+10001000010: 62
+10001000011: 35
+10001000100: -33
+10001000101: 117
+10001000110: 102
+10001000111: -122
+10001001000: -97
+10001001001: -106
+10001001010: -6
+10001001011: -10
+10001001100: -123
+10001001101: -22
+10001001110: -19
+10001001111: 126
+10001010000: 104
+10001010001: -5
+10001010010: 86
+10001010011: -30
+10001010100: 34
+10001010101: 104
+10001010110: 1
+10001010111: -84
+10001011000: -124
+10001011001: 33
+10001011010: -45
+10001011011: 120
+10001011100: 64
+10001011101: -51
+10001011110: 17
+10001011111: -18
+10001100000: -91
+10001100001: 67
+10001100010: -25
+10001100011: 105
+10001100100: 81
+10001100101: 125
+10001100110: -111
+10001100111: 122
+10001101000: -20
+10001101001: 74
+10001101010: 94
+10001101011: 68
+10001101100: 31
+10001101101: -11
+10001101110: -118
+10001101111: 24
+10001110000: -21
+10001110001: 114
+10001110010: 45
+10001110011: -89
+10001110100: -60
+10001110101: 69
+10001110110: 107
+10001110111: -114
+10001111000: 30
+10001111001: 64
+10001111010: -32
+10001111011: -87
+10001111100: -88
+10001111101: -13
+10001111110: -118
+10001111111: 116
+10010000000: 102
+10010000001: -51
+10010000010: -68
+10010000011: 7
+10010000100: 14
+10010000101: -62
+10010000110: 41
+10010000111: -29
+10010001000: -70
+10010001001: -6
+10010001010: 9
+10010001011: 85
+10010001100: 112
+10010001101: -32
+10010001110: -113
+10010001111: -60
+10010010000: 67
+10010010001: -15
+10010010010: 74
+10010010011: 100
+10010010100: 5
+10010010101: -6
+10010010110: -15
+10010010111: 40
+10010011000: 29
+10010011001: 22
+10010011010: -56
+10010011011: -22
+10010011100: -111
+10010011101: -21
+10010011110: 3
+10010011111: 37
+10010100000: 36
+10010100001: 87
+10010100010: -44
+10010100011: 55
+10010100100: -63
+10010100101: -95
+10010100110: 19
+10010100111: 102
+10010101000: 97
+10010101001: -117
+10010101010: -49
+10010101011: -7
+10010101100: 22
+10010101101: 94
+10010101110: 107
+10010101111: -74
+10010110000: 45
+10010110001: -125
+10010110010: -108
+10010110011: -109
+10010110100: 29
+10010110101: -119
+10010110110: -53
+10010110111: -100
+10010111000: 19
+10010111001: 115
+10010111010: 51
+10010111011: 49
+10010111100: 6
+10010111101: -73
+10010111110: 102
+10010111111: 39
+10011000000: 118
+10011000001: -126
+10011000010: 6
+10011000011: 87
+10011000100: 33
+10011000101: 80
+10011000110: 60
+10011000111: 84
+10011001000: 40
+10011001001: -71
+10011001010: 112
+10011001011: 82
+10011001100: 25
+10011001101: 111
+10011001110: 85
+10011001111: 79
+10011010000: 103
+10011010001: -120
+10011010010: -27
+10011010011: -4
+10011010100: -65
+10011010101: 39
+10011010110: 56
+10011010111: -89
+10011011000: 72
+10011011001: -52
+10011011010: -7
+10011011011: 98
+10011011100: -62
+10011011101: -69
+10011011110: -18
+10011011111: -88
+10011100000: 98
+10011100001: -29
+10011100010: 66
+10011100011: 62
+10011100100: -22
+10011100101: -113
+10011100110: -37
+10011100111: -47
+10011101000: -77
+10011101001: -71
+10011101010: -57
+10011101011: -79
+10011101100: 74
+10011101101: 14
+10011101110: -96
+10011101111: -69
+10011110000: -48
+10011110001: -72
+10011110010: -4
+10011110011: -13
+10011110100: -32
+10011110101: -118
+10011110110: -62
+10011110111: 77
+10011111000: -71
+10011111001: -86
+10011111010: -16
+10011111011: 89
+10011111100: 80
+10011111101: -48
+10011111110: 96
+10011111111: 113
+10100000000: 34
+10100000001: 88
+10100000010: 71
+10100000011: 61
+10100000100: -105
+10100000101: -108
+10100000110: -46
+10100000111: -12
+10100001000: 29
+10100001001: 84
+10100001010: 1
+10100001011: 107
+10100001100: 108
+10100001101: 114
+10100001110: -56
+10100001111: -54
+10100010000: 0
+10100010001: 0
+10100010010: 0
+10100010011: 0
+10100010100: 0
+10100010101: 0
+10100010110: 0
+10100010111: 0
+10100011000: 0
+10100011001: 0
+10100011010: 0
+10100011011: 0
+10100011100: 0
+10100011101: 0
+10100011110: 0
+10100011111: 0
+10100100000: 0
+10100100001: 0
+10100100010: 0
+10100100011: 0
+10100100100: 0
+10100100101: 0
+10100100110: 0
+10100100111: 0
+10100101000: 0
+10100101001: 0
+10100101010: 0
+10100101011: 0
+10100101100: 0
+10100101101: 0
+10100101110: 0
+10100101111: 0
+10100110000: 0
+10100110001: 0
+10100110010: 0
+10100110011: 0
+10100110100: 0
+10100110101: 0
+10100110110: 0
+10100110111: 0
+10100111000: 0
+10100111001: 0
+10100111010: 0
+10100111011: 0
+10100111100: 0
+10100111101: 0
+10100111110: 0
+10100111111: 0
+10101000000: 0
+10101000001: 0
+10101000010: 0
+10101000011: 0
+10101000100: 0
+10101000101: 0
+10101000110: 0
+10101000111: 0
+10101001000: 0
+10101001001: 0
+10101001010: 0
+10101001011: 0
+10101001100: 0
+10101001101: 0
+10101001110: 0
+10101001111: 0
+10101010000: 0
+10101010001: 0
+10101010010: 0
+10101010011: 0
+10101010100: 0
+10101010101: 0
+10101010110: 0
+10101010111: 0
+10101011000: 0
+10101011001: 0
+10101011010: 0
+10101011011: 0
+10101011100: 0
+10101011101: 0
+10101011110: 0
+10101011111: 0
+10101100000: 0
+10101100001: 0
+10101100010: 0
+10101100011: 0
+10101100100: 0
+10101100101: 0
+10101100110: 0
+10101100111: 0
+10101101000: 0
+10101101001: 0
+10101101010: 0
+10101101011: 0
+10101101100: 0
+10101101101: 0
+10101101110: 0
+10101101111: 0
+10101110000: 0
+10101110001: 0
+10101110010: 0
+10101110011: 0
+10101110100: 0
+10101110101: 0
+10101110110: 0
+10101110111: 0
+10101111000: 0
+10101111001: 0
+10101111010: 0
+10101111011: 0
+10101111100: 0
+10101111101: 0
+10101111110: 0
+10101111111: 0
+10110000000: 0
+10110000001: 0
+10110000010: 0
+10110000011: 0
+10110000100: 0
+10110000101: 0
+10110000110: 0
+10110000111: 0
+10110001000: 0
+10110001001: 0
+10110001010: 0
+10110001011: 0
+10110001100: 0
+10110001101: 0
+10110001110: 0
+10110001111: 0
+10110010000: 0
+10110010001: 0
+10110010010: 0
+10110010011: 0
+10110010100: 0
+10110010101: 0
+10110010110: 0
+10110010111: 0
+10110011000: 0
+10110011001: 0
+10110011010: 0
+10110011011: 0
+10110011100: 0
+10110011101: 0
+10110011110: 0
+10110011111: 0
+10110100000: 0
+10110100001: 0
+10110100010: 0
+10110100011: 0
+10110100100: 0
+10110100101: 0
+10110100110: 0
+10110100111: 0
+10110101000: 0
+10110101001: 0
+10110101010: 0
+10110101011: 0
+10110101100: 0
+10110101101: 0
+10110101110: 0
+10110101111: 0
+10110110000: 0
+10110110001: 0
+10110110010: 0
+10110110011: 0
+10110110100: 0
+10110110101: 0
+10110110110: 0
+10110110111: 0
+10110111000: 0
+10110111001: 0
+10110111010: 0
+10110111011: 0
+10110111100: 0
+10110111101: 0
+10110111110: 0
+10110111111: 0
+10111000000: 0
+10111000001: 0
+10111000010: 0
+10111000011: 0
+10111000100: 0
+10111000101: 0
+10111000110: 0
+10111000111: 0
+10111001000: 0
+10111001001: 0
+10111001010: 0
+10111001011: 0
+10111001100: 0
+10111001101: 0
+10111001110: 0
+10111001111: 0
+10111010000: 0
+10111010001: 0
+10111010010: 0
+10111010011: 0
+10111010100: 0
+10111010101: 0
+10111010110: 0
+10111010111: 0
+10111011000: 0
+10111011001: 0
+10111011010: 0
+10111011011: 0
+10111011100: 0
+10111011101: 0
+10111011110: 0
+10111011111: 0
+10111100000: 0
+10111100001: 0
+10111100010: 0
+10111100011: 0
+10111100100: 0
+10111100101: 0
+10111100110: 0
+10111100111: 0
+10111101000: 0
+10111101001: 0
+10111101010: 0
+10111101011: 0
+10111101100: 0
+10111101101: 0
+10111101110: 0
+10111101111: 0
+10111110000: 0
+10111110001: 0
+10111110010: 0
+10111110011: 0
+10111110100: 0
+10111110101: 0
+10111110110: 0
+10111110111: 0
+10111111000: 0
+10111111001: 0
+10111111010: 0
+10111111011: 0
+10111111100: 0
+10111111101: 0
+10111111110: 0
+10111111111: 0
+11000000000: 0
+11000000001: 0
+11000000010: 0
+11000000011: 0
+11000000100: 0
+11000000101: 0
+11000000110: 0
+11000000111: 0
+11000001000: 0
+11000001001: 0
+11000001010: 0
+11000001011: 0
+11000001100: 0
+11000001101: 0
+11000001110: 0
+11000001111: 0
+11000010000: 0
+11000010001: 0
+11000010010: 0
+11000010011: 0
+11000010100: 0
+11000010101: 0
+11000010110: 0
+11000010111: 0
+11000011000: 0
+11000011001: 0
+11000011010: 0
+11000011011: 0
+11000011100: 0
+11000011101: 0
+11000011110: 0
+11000011111: 0
+11000100000: 0
+11000100001: 0
+11000100010: 0
+11000100011: 0
+11000100100: 0
+11000100101: 0
+11000100110: 0
+11000100111: 0
+11000101000: 0
+11000101001: 0
+11000101010: 0
+11000101011: 0
+11000101100: 0
+11000101101: 0
+11000101110: 0
+11000101111: 0
+11000110000: 0
+11000110001: 0
+11000110010: 0
+11000110011: 0
+11000110100: 0
+11000110101: 0
+11000110110: 0
+11000110111: 0
+11000111000: 0
+11000111001: 0
+11000111010: 0
+11000111011: 0
+11000111100: 0
+11000111101: 0
+11000111110: 0
+11000111111: 0
+11001000000: 0
+11001000001: 0
+11001000010: 0
+11001000011: 0
+11001000100: 0
+11001000101: 0
+11001000110: 0
+11001000111: 0
+11001001000: 0
+11001001001: 0
+11001001010: 0
+11001001011: 0
+11001001100: 0
+11001001101: 0
+11001001110: 0
+11001001111: 0
+11001010000: 0
+11001010001: 0
+11001010010: 0
+11001010011: 0
+11001010100: 0
+11001010101: 0
+11001010110: 0
+11001010111: 0
+11001011000: 0
+11001011001: 0
+11001011010: 0
+11001011011: 0
+11001011100: 0
+11001011101: 0
+11001011110: 0
+11001011111: 0
+11001100000: 0
+11001100001: 0
+11001100010: 0
+11001100011: 0
+11001100100: 0
+11001100101: 0
+11001100110: 0
+11001100111: 0
+11001101000: 0
+11001101001: 0
+11001101010: 0
+11001101011: 0
+11001101100: 0
+11001101101: 0
+11001101110: 0
+11001101111: 0
+11001110000: 0
+11001110001: 0
+11001110010: 0
+11001110011: 0
+11001110100: 0
+11001110101: 0
+11001110110: 0
+11001110111: 0
+11001111000: 0
+11001111001: 0
+11001111010: 0
+11001111011: 0
+11001111100: 0
+11001111101: 0
+11001111110: 0
+11001111111: 0
+11010000000: 0
+11010000001: 0
+11010000010: 0
+11010000011: 0
+11010000100: 0
+11010000101: 0
+11010000110: 0
+11010000111: 0
+11010001000: 0
+11010001001: 0
+11010001010: 0
+11010001011: 0
+11010001100: 0
+11010001101: 0
+11010001110: 0
+11010001111: 0
+11010010000: 0
+11010010001: 0
+11010010010: 0
+11010010011: 0
+11010010100: 0
+11010010101: 0
+11010010110: 0
+11010010111: 0
+11010011000: 0
+11010011001: 0
+11010011010: 0
+11010011011: 0
+11010011100: 0
+11010011101: 0
+11010011110: 0
+11010011111: 0
+11010100000: 0
+11010100001: 0
+11010100010: 0
+11010100011: 0
+11010100100: 0
+11010100101: 0
+11010100110: 0
+11010100111: 0
+11010101000: 0
+11010101001: 0
+11010101010: 0
+11010101011: 0
+11010101100: 0
+11010101101: 0
+11010101110: 0
+11010101111: 0
+11010110000: 0
+11010110001: 0
+11010110010: 0
+11010110011: 0
+11010110100: 0
+11010110101: 0
+11010110110: 0
+11010110111: 0
+11010111000: 0
+11010111001: 0
+11010111010: 0
+11010111011: 0
+11010111100: 0
+11010111101: 0
+11010111110: 0
+11010111111: 0
+11011000000: 0
+11011000001: 0
+11011000010: 0
+11011000011: 0
+11011000100: 0
+11011000101: 0
+11011000110: 0
+11011000111: 0
+11011001000: 0
+11011001001: 0
+11011001010: 0
+11011001011: 0
+11011001100: 0
+11011001101: 0
+11011001110: 0
+11011001111: 0
+11011010000: 0
+11011010001: 0
+11011010010: 0
+11011010011: 0
+11011010100: 0
+11011010101: 0
+11011010110: 0
+11011010111: 0
+11011011000: 0
+11011011001: 0
+11011011010: 0
+11011011011: 0
+11011011100: 0
+11011011101: 0
+11011011110: 0
+11011011111: 0
+11011100000: 0
+11011100001: 0
+11011100010: 0
+11011100011: 0
+11011100100: 0
+11011100101: 0
+11011100110: 0
+11011100111: 0
+11011101000: 0
+11011101001: 0
+11011101010: 0
+11011101011: 0
+11011101100: 0
+11011101101: 0
+11011101110: 0
+11011101111: 0
+11011110000: 0
+11011110001: 0
+11011110010: 0
+11011110011: 0
+11011110100: 0
+11011110101: 0
+11011110110: 0
+11011110111: 0
+11011111000: 0
+11011111001: 0
+11011111010: 0
+11011111011: 0
+11011111100: 0
+11011111101: 0
+11011111110: 0
+11011111111: 0
+11100000000: 0
+11100000001: 0
+11100000010: 0
+11100000011: 0
+11100000100: 0
+11100000101: 0
+11100000110: 0
+11100000111: 0
+11100001000: 0
+11100001001: 0
+11100001010: 0
+11100001011: 0
+11100001100: 0
+11100001101: 0
+11100001110: 0
+11100001111: 0
+11100010000: 0
+11100010001: 0
+11100010010: 0
+11100010011: 0
+11100010100: 0
+11100010101: 0
+11100010110: 0
+11100010111: 0
+11100011000: 0
+11100011001: 0
+11100011010: 0
+11100011011: 0
+11100011100: 0
+11100011101: 0
+11100011110: 0
+11100011111: 0
+11100100000: 0
+11100100001: 0
+11100100010: 0
+11100100011: 0
+11100100100: 0
+11100100101: 0
+11100100110: 0
+11100100111: 0
+11100101000: 0
+11100101001: 0
+11100101010: 0
+11100101011: 0
+11100101100: 0
+11100101101: 0
+11100101110: 0
+11100101111: 0
+11100110000: 0
+11100110001: 0
+11100110010: 0
+11100110011: 0
+11100110100: 0
+11100110101: 0
+11100110110: 0
+11100110111: 0
+11100111000: 0
+11100111001: 0
+11100111010: 0
+11100111011: 0
+11100111100: 0
+11100111101: 0
+11100111110: 0
+11100111111: 0
+11101000000: 0
+11101000001: 0
+11101000010: 0
+11101000011: 0
+11101000100: 0
+11101000101: 0
+11101000110: 0
+11101000111: 0
+11101001000: 0
+11101001001: 0
+11101001010: 0
+11101001011: 0
+11101001100: 0
+11101001101: 0
+11101001110: 0
+11101001111: 0
+11101010000: 0
+11101010001: 0
+11101010010: 0
+11101010011: 0
+11101010100: 0
+11101010101: 0
+11101010110: 0
+11101010111: 0
+11101011000: 0
+11101011001: 0
+11101011010: 0
+11101011011: 0
+11101011100: 0
+11101011101: 0
+11101011110: 0
+11101011111: 0
+11101100000: 0
+11101100001: 0
+11101100010: 0
+11101100011: 0
+11101100100: 0
+11101100101: 0
+11101100110: 0
+11101100111: 0
+11101101000: 0
+11101101001: 0
+11101101010: 0
+11101101011: 0
+11101101100: 0
+11101101101: 0
+11101101110: 0
+11101101111: 0
+11101110000: 0
+11101110001: 0
+11101110010: 0
+11101110011: 0
+11101110100: 0
+11101110101: 0
+11101110110: 0
+11101110111: 0
+11101111000: 0
+11101111001: 0
+11101111010: 0
+11101111011: 0
+11101111100: 0
+11101111101: 0
+11101111110: 0
+11101111111: 0
+11110000000: 0
+11110000001: 0
+11110000010: 0
+11110000011: 0
+11110000100: 0
+11110000101: 0
+11110000110: 0
+11110000111: 0
+11110001000: 0
+11110001001: 0
+11110001010: 0
+11110001011: 0
+11110001100: 0
+11110001101: 0
+11110001110: 0
+11110001111: 0
+11110010000: 0
+11110010001: 0
+11110010010: 0
+11110010011: 0
+11110010100: 0
+11110010101: 0
+11110010110: 0
+11110010111: 0
+11110011000: 0
+11110011001: 0
+11110011010: 0
+11110011011: 0
+11110011100: 0
+11110011101: 0
+11110011110: 0
+11110011111: 0
+11110100000: 0
+11110100001: 0
+11110100010: 0
+11110100011: 0
+11110100100: 0
+11110100101: 0
+11110100110: 0
+11110100111: 0
+11110101000: 0
+11110101001: 0
+11110101010: 0
+11110101011: 0
+11110101100: 0
+11110101101: 0
+11110101110: 0
+11110101111: 0
+11110110000: 0
+11110110001: 0
+11110110010: 0
+11110110011: 0
+11110110100: 0
+11110110101: 0
+11110110110: 0
+11110110111: 0
+11110111000: 0
+11110111001: 0
+11110111010: 0
+11110111011: 0
+11110111100: 0
+11110111101: 0
+11110111110: 0
+11110111111: 0
+11111000000: 0
+11111000001: 0
+11111000010: 0
+11111000011: 0
+11111000100: 0
+11111000101: 0
+11111000110: 0
+11111000111: 0
+11111001000: 0
+11111001001: 0
+11111001010: 0
+11111001011: 0
+11111001100: 0
+11111001101: 0
+11111001110: 0
+11111001111: 0
+11111010000: 0
+11111010001: 0
+11111010010: 0
+11111010011: 0
+11111010100: 0
+11111010101: 0
+11111010110: 0
+11111010111: 0
+11111011000: 0
+11111011001: 0
+11111011010: 0
+11111011011: 0
+11111011100: 0
+11111011101: 0
+11111011110: 0
+11111011111: 0
+11111100000: 0
+11111100001: 0
+11111100010: 0
+11111100011: 0
+11111100100: 0
+11111100101: 0
+11111100110: 0
+11111100111: 0
+11111101000: 0
+11111101001: 0
+11111101010: 0
+11111101011: 0
+11111101100: 0
+11111101101: 0
+11111101110: 0
+11111101111: 0
+11111110000: 0
+11111110001: 0
+11111110010: 0
+11111110011: 0
+11111110100: 0
+11111110101: 0
+11111110110: 0
+11111110111: 0
+11111111000: 0
+11111111001: 0
+11111111010: 0
+11111111011: 0
+11111111100: 0
+11111111101: 0
+11111111110: 0
+11111111111: 0
+---------------------------------------------
+WRITING PAGES BACK TO DISK...
+DISK CONTENT:
+PAGE 0: 40,-66,91,-79,103,41,109,112
+PAGE 1: -113,55,105,119,-24,32,101,-33
+PAGE 2: 92,-46,-120,-107,-88,-17,-5,22
+PAGE 3: -31,-121,62,-51,104,80,27,-13
+PAGE 4: -126,76,-87,78,46,8,116,-97
+PAGE 5: -79,51,-12,-4,-63,97,-64,-94
+PAGE 6: -10,87,53,-43,85,110,-89,112
+PAGE 7: -5,122,51,-45,76,-114,37,86
+PAGE 8: -86,7,59,-38,-12,-75,79,65
+PAGE 9: -33,-12,-124,42,-94,85,-122,-75
+PAGE 10: 73,-111,64,87,-83,-111,-77,89
+PAGE 11: 96,-34,-22,66,6,-34,43,125
+PAGE 12: -97,-106,-6,-10,-123,-22,-19,126
+PAGE 13: 104,-5,86,-30,34,104,1,-84
+PAGE 14: 55,33,-97,9,-74,92,-42,-51
+PAGE 15: 15,53,100,87,-10,-55,79,65
+PAGE 16: 69,52,-84,-76,-61,45,52,-117
+PAGE 17: 28,88,67,22,13,37,-63,-10
+PAGE 18: -58,24,-109,-122,-51,15,-30,119
+PAGE 19: -53,-73,46,-101,-15,75,45,120
+PAGE 20: -27,-57,-101,-3,37,70,26,120
+PAGE 21: -48,-72,-4,-13,-32,-118,-62,77
+PAGE 22: -96,23,-10,-4,46,-1,-121,40
+PAGE 23: -101,-120,21,68,-65,-57,37,-74
+PAGE 24: -85,-115,12,-106,51,-9,51,-28
+PAGE 25: -34,-124,40,-7,78,45,96,-8
+PAGE 26: -108,-4,118,94,55,-71,47,-87
+PAGE 27: 75,23,82,-61,-100,-43,31,-96
+PAGE 28: 39,79,-105,-21,11,16,68,-78
+PAGE 29: -94,9,-35,-3,-67,39,52,-75
+PAGE 30: 19,38,-83,103,100,-10,28,-101
+PAGE 31: -22,-107,-10,-82,-69,-36,-123,88
+PAGE 32: -51,43,-45,-87,-33,-55,-78,-35
+PAGE 33: -2,-74,92,-68,-55,-33,85,-128
+PAGE 34: 53,66,35,24,86,2,91,32
+PAGE 35: 74,125,-126,77,-66,125,-115,-126
+PAGE 36: 117,-77,108,119,117,118,1,110
+PAGE 37: -42,107,30,121,-63,-105,-99,25
+PAGE 38: -80,-79,-69,22,-116,-116,49,-127
+PAGE 39: -124,33,-45,120,64,-51,17,-18
+PAGE 40: -37,4,-95,32,-90,126,-107,60
+PAGE 41: -107,-46,-30,97,37,-47,-41,-9
+PAGE 42: 102,115,16,-63,-39,98,12,-34
+PAGE 43: 113,86,-30,65,75,94,-118,61
+PAGE 44: 32,-38,-39,-30,-33,-80,116,-99
+PAGE 45: -89,-51,104,-14,46,127,18,73
+PAGE 46: 74,-87,-80,-16,-27,23,32,67
+PAGE 47: 49,36,5,-69,-30,28,-23,-66
+PAGE 48: 71,-3,116,-125,-93,-33,-52,-20
+PAGE 49: -3,-13,-110,45,70,-75,110,28
+PAGE 50: 45,-87,93,-45,-84,-120,61,32
+PAGE 51: -88,-117,-100,-110,121,-8,104,63
+PAGE 52: -71,-86,-16,89,80,-48,96,113
+PAGE 53: -116,29,16,-62,-117,29,28,13
+PAGE 54: 45,-104,-87,57,-3,-45,-114,60
+PAGE 55: -4,90,106,-76,119,94,-105,-39
+PAGE 56: -62,-9,3,124,51,120,52,45
+PAGE 57: -50,-1,-40,65,81,83,118,-51
+PAGE 58: -56,-96,-103,-15,-4,102,55,-69
+PAGE 59: 25,18,-4,-5,-69,-124,34,-100
+PAGE 60: 17,-117,99,-56,-24,-115,18,71
+PAGE 61: 63,-38,-116,108,-99,-99,86,76
+PAGE 62: -113,-80,45,-76,-96,-120,22,-85
+PAGE 63: 45,-41,-35,30,20,-124,54,111
+PAGE 64: 60,-27,52,-93,-11,100,-59,-80
+PAGE 65: -31,50,55,41,-86,-115,27,112
+PAGE 66: 57,-55,-17,102,54,20,30,-23
+PAGE 67: 44,123,-121,108,-56,66,115,-51
+PAGE 68: 58,57,114,-43,-63,29,29,-113
+PAGE 69: -72,-94,104,65,104,-50,2,14
+PAGE 70: 32,-31,-20,-76,-36,102,-3,-47
+PAGE 71: 77,-114,53,22,31,47,-59,-68
+PAGE 72: -25,-44,-64,38,-59,35,29,-78
+PAGE 73: 79,-78,-116,5,-8,-7,-64,107
+PAGE 74: -63,83,-71,76,7,70,24,93
+PAGE 75: -117,-124,32,-71,-108,-55,-86,-14
+PAGE 76: -125,25,124,-9,14,-4,-22,28
+PAGE 77: 50,-58,118,27,49,102,-119,-60
+PAGE 78: 64,-30,98,99,-3,21,4,-64
+PAGE 79: 36,-22,-61,-7,-7,-1,-80,54
+PAGE 80: 51,4,-9,86,-65,99,88,54
+PAGE 81: 114,27,32,94,30,-115,-31,6
+PAGE 82: -31,67,114,118,92,96,5,-89
+PAGE 83: 30,-88,39,-75,84,87,48,-27
+PAGE 84: 127,70,54,-48,-115,-66,34,-68
+PAGE 85: 36,-44,-16,74,126,108,76,-125
+PAGE 86: -112,24,94,-87,-111,-86,71,100
+PAGE 87: -67,88,93,-15,-85,-26,-108,-21
+PAGE 88: -46,-18,-92,109,65,-43,65,-4
+PAGE 89: -30,19,110,-59,67,63,99,-12
+PAGE 90: 90,127,18,-123,98,-100,-55,52
+PAGE 91: 14,-84,-93,-34,125,33,-69,-74
+PAGE 92: -2,-96,-123,66,58,-28,-114,40
+PAGE 93: 72,44,-33,18,20,112,108,9
+PAGE 94: -14,-118,107,82,101,118,55,-33
+PAGE 95: 96,-36,-50,-2,57,114,43,83
+PAGE 96: -75,94,34,31,-24,-7,-44,-44
+PAGE 97: 120,-39,-69,-49,-54,91,94,-67
+PAGE 98: 45,-34,-54,-62,-122,-40,45,126
+PAGE 99: -58,50,109,64,-60,-92,62,110
+PAGE 100: 113,-32,-4,-14,82,-91,-65,-57
+PAGE 101: -105,-114,-11,72,-10,-29,115,-72
+PAGE 102: -122,38,36,28,-123,-40,-98,60
+PAGE 103: -106,-101,74,-59,-9,32,117,-2
+PAGE 104: 12,124,-127,-58,-111,-12,20,98
+PAGE 105: 77,-46,109,19,90,-47,88,107
+PAGE 106: -101,58,38,-88,117,104,83,40
+PAGE 107: -20,74,94,68,31,-11,-118,24
+PAGE 108: 9,-95,-2,35,83,-61,-63,-70
+PAGE 109: 73,-85,43,-12,108,6,100,-13
+PAGE 110: -82,-102,97,-72,63,13,-61,3
+PAGE 111: 40,113,59,110,124,-80,18,-34
+PAGE 112: 73,-35,-30,61,89,89,55,121
+PAGE 113: -7,28,34,44,-42,-127,-11,119
+PAGE 114: 37,-127,-114,43,29,-27,-69,45
+PAGE 115: 107,-1,-123,-125,-62,13,-95,-127
+PAGE 116: 119,119,-125,30,-7,88,-3,47
+PAGE 117: -39,-78,-103,2,-8,48,-94,115
+PAGE 118: 10,-125,84,2,31,-2,-108,74
+PAGE 119: 31,124,24,87,-102,109,-45,19
+PAGE 120: 29,-105,-19,-77,-100,-3,34,-91
+PAGE 121: 90,31,-113,-7,101,-110,23,71
+PAGE 122: -117,-64,53,60,-87,-4,-28,87
+PAGE 123: 108,-25,95,74,34,33,-69,43
+PAGE 124: 44,-3,-125,-104,65,-86,41,7
+PAGE 125: -2,-27,-104,111,97,40,-31,-66
+PAGE 126: 123,-91,127,-25,-13,17,-9,56
+PAGE 127: -61,-81,-97,110,105,-124,119,-124
+PAGE 128: 120,76,107,15,-7,-57,66,-122
+PAGE 129: 4,25,38,-109,106,-69,121,-80
+PAGE 130: -49,57,99,9,-120,66,120,-105
+PAGE 131: 87,-74,15,-38,-12,-24,8,89
+PAGE 132: 58,-30,6,-54,105,-12,-6,42
+PAGE 133: -79,37,40,115,-84,108,82,86
+PAGE 134: 35,2,-105,-59,-57,-4,22,41
+PAGE 135: -97,99,6,108,60,80,-90,-98
+PAGE 136: -116,73,8,-78,75,-128,-84,12
+PAGE 137: -48,-80,121,-87,-117,-104,-71,93
+PAGE 138: 51,112,36,-9,101,-1,14,8
+PAGE 139: -42,-53,-96,-81,46,-10,31,61
+PAGE 140: -16,-4,-46,33,-20,61,83,59
+PAGE 141: 45,-125,-108,-109,29,-119,-53,-100
+PAGE 142: 98,-29,66,62,-22,-113,-37,-47
+PAGE 143: 123,-29,-102,72,-87,-85,24,12
+PAGE 144: -54,92,55,-85,-80,-97,-101,-55
+PAGE 145: 25,-122,104,78,-83,-8,-42,1
+PAGE 146: 54,57,98,97,47,1,-118,-84
+PAGE 147: -46,-61,73,90,3,1,32,-85
+PAGE 148: -31,89,-59,-54,-118,38,71,101
+PAGE 149: -23,-49,101,-78,58,100,-33,112
+PAGE 150: -39,-19,-58,-63,-26,-119,102,40
+PAGE 151: 96,-1,-23,-92,-123,64,-9,65
+PAGE 152: -30,84,58,-84,-124,32,64,-43
+PAGE 153: 119,-64,11,93,-11,45,39,-81
+PAGE 154: -102,-52,89,-114,18,107,-3,48
+PAGE 155: 114,6,-76,-87,-22,56,-117,-43
+PAGE 156: -35,75,-53,114,61,-73,-10,-123
+PAGE 157: -97,45,-113,109,-57,-113,-21,7
+PAGE 158: 106,48,-115,81,-118,102,-86,-27
+PAGE 159: -105,-101,104,2,-28,-41,108,37
+PAGE 160: -58,-94,77,78,102,78,-31,5
+PAGE 161: -61,-97,105,-6,-56,93,-68,-48
+PAGE 162: 96,-44,121,113,123,-123,48,63
+PAGE 163: 34,88,71,61,-105,-108,-46,-12
+PAGE 164: -11,123,-128,4,68,50,58,-11
+PAGE 165: 77,-2,-29,109,-55,-104,25,-105
+PAGE 166: -9,52,-107,59,-29,46,20,-35
+PAGE 167: 49,64,-95,-6,28,-86,108,57
+PAGE 168: -89,-96,-8,123,50,-106,84,117
+PAGE 169: 23,12,-20,-25,-53,-48,64,-116
+PAGE 170: -55,124,-93,31,23,-114,-79,50
+PAGE 171: -119,105,121,-67,0,34,-106,-23
+PAGE 172: 122,-7,112,68,27,-29,34,-107
+PAGE 173: 29,-108,-50,123,-122,87,84,-73
+PAGE 174: -100,12,-57,-49,61,73,73,-111
+PAGE 175: 95,-85,-27,-36,-62,-51,-84,10
+PAGE 176: -11,-106,-127,14,4,86,-56,-111
+PAGE 177: -53,37,-101,-96,-29,66,113,-111
+PAGE 178: 85,-124,-49,21,-45,-121,125,57
+PAGE 179: -104,103,33,72,88,86,-103,47
+PAGE 180: -2,73,-1,-126,-128,-18,79,3
+PAGE 181: -106,-127,80,115,-126,63,49,-15
+PAGE 182: 63,103,42,80,38,73,-7,-77
+PAGE 183: -62,92,-124,91,-85,-20,-45,-76
+PAGE 184: 98,-52,-123,-16,58,-83,-30,54
+PAGE 185: 120,-43,27,122,53,51,9,-101
+PAGE 186: -57,75,23,-77,-36,10,60,46
+PAGE 187: 97,-117,-49,-7,22,94,107,-74
+PAGE 188: 80,121,-18,-45,111,34,23,9
+PAGE 189: 109,105,63,112,-125,-81,-51,85
+PAGE 190: 0,-100,1,-99,107,-65,-61,125
+PAGE 191: 27,42,-126,49,-21,-55,-36,107
+PAGE 192: -34,-107,-75,86,113,76,52,-116
+PAGE 193: -9,91,114,66,38,52,-88,41
+PAGE 194: 31,-26,33,-121,-97,20,15,-71
+PAGE 195: 100,-86,40,-74,-18,108,-61,116
+PAGE 196: -125,41,-112,124,37,-58,-127,-89
+PAGE 197: -101,40,-53,-53,-115,65,-96,73
+PAGE 198: -2,-68,-56,93,24,10,50,11
+PAGE 199: -13,-52,-41,-23,-31,91,-85,92
+PAGE 200: -101,102,-76,-33,-122,69,-1,-91
+PAGE 201: 98,-30,-120,19,91,59,-49,55
+PAGE 202: -99,40,-11,85,-55,-41,-10,-125
+PAGE 203: 67,-58,69,45,-43,13,76,-53
+PAGE 204: -25,-94,-106,-119,32,106,82,92
+PAGE 205: 89,100,71,-60,57,26,62,-26
+PAGE 206: -99,-90,24,-88,123,36,-59,43
+PAGE 207: 19,115,51,49,6,-73,102,39
+PAGE 208: 10,-32,-84,-84,-107,-37,121,37
+PAGE 209: 17,10,122,85,-71,-15,-42,-15
+PAGE 210: -61,-70,-39,-14,72,-116,-55,-113
+PAGE 211: -26,-100,23,36,0,115,-64,13
+PAGE 212: 13,-28,-118,63,28,-72,-96,123
+PAGE 213: 31,94,53,-24,18,60,20,-104
+PAGE 214: 123,15,110,101,32,119,23,80
+PAGE 215: -124,78,62,91,76,63,-84,93
+PAGE 216: -37,-31,-88,-65,-3,82,117,84
+PAGE 217: -99,124,-97,40,101,3,88,-77
+PAGE 218: 82,38,-119,78,71,63,-65,-10
+PAGE 219: 119,56,-3,75,-27,-59,-78,-63
+PAGE 220: -58,-79,-26,72,22,67,100,-65
+PAGE 221: -88,63,-105,-99,-41,-48,20,-35
+PAGE 222: 123,-104,-44,-8,-43,-89,18,-124
+PAGE 223: -113,37,102,4,14,-9,87,82
+PAGE 224: 0,-102,125,60,89,-63,-80,124
+PAGE 225: -32,123,100,-80,-61,111,50,-48
+PAGE 226: 76,-25,0,104,53,-93,-111,-87
+PAGE 227: 95,127,68,-4,56,119,106,113
+PAGE 228: -101,-89,-46,-4,46,87,-99,98
+PAGE 229: -21,76,-125,94,57,-128,88,73
+PAGE 230: -66,-36,117,-27,-90,105,57,-94
+PAGE 231: -67,-30,42,-7,-82,-46,84,9
+PAGE 232: -86,-108,-101,73,-121,-35,95,114
+PAGE 233: -15,113,-36,-9,122,-39,8,-18
+PAGE 234: -16,123,13,-23,-67,-33,47,-12
+PAGE 235: 70,-60,111,1,-18,-114,107,30
+PAGE 236: 117,69,-120,-23,57,-54,-40,108
+PAGE 237: 33,-70,-4,-125,125,-68,-77,113
+PAGE 238: -93,-127,12,119,-31,76,5,45
+PAGE 239: -41,36,-16,-53,-74,1,2,7
+PAGE 240: 73,-52,114,-75,-92,-49,93,-108
+PAGE 241: 43,-127,29,105,110,-42,47,-13
+PAGE 242: -65,116,122,-89,-50,97,6,-41
+PAGE 243: 21,86,-45,-29,60,-4,79,-82
+PAGE 244: 78,4,88,-103,-100,-54,59,5
+PAGE 245: -59,59,16,-72,119,19,64,-60
+PAGE 246: -50,70,59,-83,19,-113,88,123
+PAGE 247: -26,-50,82,-62,-88,69,114,-3
+PAGE 248: -113,-71,-102,-91,13,1,-60,-69
+PAGE 249: 39,20,95,16,-61,63,17,-48
+PAGE 250: 124,-124,-116,93,-108,-85,-38,-127
+PAGE 251: -10,15,-8,116,-105,-27,15,-27
+PAGE 252: 125,97,83,89,114,-80,0,-18
+PAGE 253: -114,-106,52,104,2,125,-39,10
+PAGE 254: 29,22,-56,-22,-111,-21,3,37
+PAGE 255: 52,-104,2,3,-102,62,110,-119
+PAGE 256: 109,99,-82,-28,94,-20,-4,-40
+PAGE 257: 74,109,-36,35,-32,-127,3,-88
+PAGE 258: 39,-112,-114,63,123,36,59,125
+PAGE 259: 82,-23,-25,-88,-75,-8,-3,-63
+PAGE 260: 21,-15,-102,64,-9,-52,-71,-126
+PAGE 261: 118,47,-17,-48,12,-82,-113,-85
+PAGE 262: -77,19,-69,41,-50,104,96,-36
+PAGE 263: 72,-100,31,45,-32,-69,-86,116
+PAGE 264: 19,111,76,-97,118,-19,42,59
+PAGE 265: 5,57,123,-119,104,-20,-108,30
+PAGE 266: 0,-65,-62,78,50,-23,-126,79
+PAGE 267: -47,-123,-83,5,-119,-70,119,84
+PAGE 268: 102,109,80,-25,-88,58,-44,-41
+PAGE 269: -74,-101,-68,123,-116,101,11,29
+PAGE 270: -16,-83,97,-75,-79,45,-3,33
+PAGE 271: -20,-22,27,-62,16,12,51,50
+PAGE 272: -13,47,59,-95,112,17,-29,-66
+PAGE 273: 90,25,54,83,66,2,75,-50
+PAGE 274: -118,-118,-73,-118,-91,-101,113,-86
+PAGE 275: 92,-59,-41,49,74,-41,73,93
+PAGE 276: 1,-57,44,-2,67,-83,-36,-41
+PAGE 277: -57,48,61,72,8,-66,-25,92
+PAGE 278: 118,-83,53,-85,-52,76,97,127
+PAGE 279: 41,24,33,11,-1,76,7,-118
+PAGE 280: -67,-73,-80,99,-86,-26,59,97
+PAGE 281: 84,58,75,107,-111,-55,-43,45
+PAGE 282: -124,-50,0,98,1,51,87,110
+PAGE 283: 29,84,1,107,108,114,-56,-54
+PAGE 284: -73,52,-70,55,-61,65,-104,123
+PAGE 285: 97,-108,-91,89,68,125,-1,-23
+PAGE 286: 37,69,-88,-61,68,-108,-31,53
+PAGE 287: 72,-52,-7,98,-62,-69,-18,-88
+PAGE 288: 99,-26,-66,125,-63,76,48,-12
+PAGE 289: -51,62,46,-23,-69,27,-73,104
+PAGE 290: -16,-101,84,3,-77,-53,-45,15
+PAGE 291: 125,58,92,-19,-91,118,-101,-107
+PAGE 292: -102,67,50,52,104,78,-15,121
+PAGE 293: 126,76,115,-127,70,100,-82,44
+PAGE 294: 31,34,-47,35,-50,98,-118,-114
+PAGE 295: -46,83,127,13,-83,4,126,9
+PAGE 296: 12,122,-29,71,-111,68,86,-15
+PAGE 297: -35,-11,65,-56,102,-11,93,-16
+PAGE 298: 15,122,13,112,105,119,43,45
+PAGE 299: 36,109,65,-107,-24,-27,62,0
+PAGE 300: -7,-26,-1,96,-84,50,-72,12
+PAGE 301: 87,79,101,0,82,127,6,-78
+PAGE 302: -60,123,1,57,42,114,29,56
+PAGE 303: -111,47,-117,5,86,-109,81,-21
+PAGE 304: 70,31,-68,-61,57,-64,-23,-89
+PAGE 305: -35,43,76,-7,117,-58,-75,-54
+PAGE 306: 98,20,13,113,14,13,46,96
+PAGE 307: -4,92,-60,67,108,41,55,3
+PAGE 308: 103,-120,-27,-4,-65,39,56,-89
+PAGE 309: 100,-109,-72,-74,-19,117,-7,-34
+PAGE 310: -75,35,59,-33,-28,-87,35,96
+PAGE 311: -116,-92,108,106,-110,-30,123,77
+PAGE 312: -90,-128,127,24,20,115,43,67
+PAGE 313: 102,-51,-68,7,14,-62,41,-29
+PAGE 314: -86,-84,7,-49,-48,-8,-78,-103
+PAGE 315: 45,-121,74,-49,-91,97,-7,5
+PAGE 316: -77,-71,-57,-79,74,14,-96,-69
+PAGE 317: 96,-97,-88,28,-35,-38,117,0
+PAGE 318: -44,-107,-117,83,-54,-18,18,116
+PAGE 319: 13,76,-30,117,118,-52,39,-95
+PAGE 320: 36,87,-44,55,-63,-95,19,102
+PAGE 321: 82,-64,-88,-53,-106,46,-103,-29
+PAGE 322: -24,-7,47,111,29,12,-87,-109
+PAGE 323: 32,5,39,-119,72,-74,-121,-52
+PAGE 324: -16,26,24,117,-34,66,63,-20
+PAGE 325: 66,26,52,-100,39,124,120,-35
+PAGE 326: 65,8,75,-77,-24,-14,-121,-73
+PAGE 327: -99,-93,-105,35,86,-38,110,-87
+PAGE 328: -12,121,59,116,27,-14,88,89
+PAGE 329: -71,-90,31,-31,-78,-75,-47,86
+PAGE 330: 93,117,72,53,-96,77,-70,38
+PAGE 331: 127,28,58,-95,75,-90,-63,-3
+PAGE 332: 110,-66,-19,-97,-123,105,-106,69
+PAGE 333: 68,91,37,37,15,-77,17,48
+PAGE 334: 93,123,63,9,-116,5,-108,28
+PAGE 335: 6,-99,38,-13,-57,-108,99,61
+PAGE 336: -123,-18,2,39,63,59,-53,8
+PAGE 337: -12,37,2,-31,71,-76,-48,35
+PAGE 338: -119,106,24,-52,72,-55,-125,-112
+PAGE 339: 51,-49,-108,-16,-31,87,104,30
+PAGE 340: -66,-28,-76,111,-2,63,60,94
+PAGE 341: -33,-7,94,20,26,-76,94,-86
+PAGE 342: -54,-55,-93,41,67,-29,30,11
+PAGE 343: 79,46,-99,25,-96,-45,79,-31
+PAGE 344: -120,-8,-11,-87,-116,85,2,77
+PAGE 345: -99,-21,-76,-118,122,-118,-76,-107
+PAGE 346: 47,7,69,-75,64,96,97,-9
+PAGE 347: 100,107,32,-12,-127,-24,-42,-107
+PAGE 348: -78,54,-116,96,70,109,-106,121
+PAGE 349: -53,93,108,-57,14,-33,118,108
+PAGE 350: 104,-72,18,-34,-39,-123,92,4
+PAGE 351: -62,-31,-122,87,-12,13,39,108
+PAGE 352: -17,41,2,61,-98,-31,96,62
+PAGE 353: -117,61,-49,103,-80,-21,116,-122
+PAGE 354: 78,107,-114,65,-9,-104,-51,-72
+PAGE 355: 124,27,74,0,-33,-68,110,-111
+PAGE 356: 89,51,66,18,-103,81,32,10
+PAGE 357: 2,79,86,117,-16,14,-115,16
+PAGE 358: 89,6,86,34,91,-12,86,79
+PAGE 359: -23,101,122,-72,25,-86,44,46
+PAGE 360: -21,114,45,-89,-60,69,107,-114
+PAGE 361: -39,-119,-93,-110,-114,46,33,103
+PAGE 362: 40,-71,112,82,25,111,85,79
+PAGE 363: 35,118,-78,-10,-16,-48,-73,-37
+PAGE 364: 6,64,-9,-88,116,-42,41,50
+PAGE 365: -67,-123,-69,37,3,-22,-124,-80
+PAGE 366: -3,124,25,115,24,19,-116,27
+PAGE 367: -117,29,43,33,-92,77,-50,77
+PAGE 368: -19,49,71,-93,-61,33,114,36
+PAGE 369: -32,-10,79,-94,-7,-100,15,46
+PAGE 370: 62,37,41,6,-109,35,32,-35
+PAGE 371: 67,14,-31,6,-23,7,-17,-4
+PAGE 372: 73,-72,99,-38,-108,62,80,26
+PAGE 373: 117,58,45,-33,-50,49,60,-113
+PAGE 374: -10,-1,-127,111,-102,115,-97,-58
+PAGE 375: -78,-81,-2,-40,105,45,-78,79
+PAGE 376: -91,67,-25,105,81,125,-111,122
+PAGE 377: 55,-13,28,-14,22,-60,-128,111
+PAGE 378: 81,6,31,-81,-110,12,11,-88
+PAGE 379: 4,3,-4,66,64,124,-20,52
+PAGE 380: -14,-3,-63,24,-9,-11,66,68
+PAGE 381: -29,-75,-49,101,22,19,-56,65
+PAGE 382: 35,-99,-88,78,-79,36,32,50
+PAGE 383: -88,-105,38,-36,126,93,-7,-2
+PAGE 384: 5,19,-118,-23,-104,102,3,120
+PAGE 385: -71,-59,-97,-67,74,-60,-74,37
+PAGE 386: 98,-27,-27,-73,-125,101,89,20
+PAGE 387: -48,-113,-125,17,-87,-49,-93,99
+PAGE 388: 20,-119,92,-29,-39,97,66,45
+PAGE 389: -1,-32,62,35,-33,117,102,-122
+PAGE 390: -88,-100,-7,-23,104,-126,98,86
+PAGE 391: -12,-76,61,-45,56,33,-74,42
+PAGE 392: 61,-87,-48,125,117,-51,-58,-59
+PAGE 393: 126,29,-95,-54,57,-95,-128,-19
+PAGE 394: -78,-115,101,64,19,31,-8,-22
+PAGE 395: 79,-100,17,-59,25,123,-48,-124
+PAGE 396: 0,-8,-65,-52,-72,-80,22,-29
+PAGE 397: 3,-8,-74,16,111,77,-29,40
+PAGE 398: -29,-112,119,93,-119,6,110,127
+PAGE 399: 96,-37,105,109,44,59,-106,-19
+PAGE 400: -65,-67,-28,54,4,83,-102,-38
+PAGE 401: -33,-95,-57,-103,-54,-111,57,-68
+PAGE 402: -62,28,-127,30,47,-81,85,-8
+PAGE 403: 107,76,29,-29,-59,30,60,50
+PAGE 404: 69,31,-111,-118,79,-86,-108,102
+PAGE 405: 104,107,-128,-68,74,-24,49,-101
+PAGE 406: 119,102,-57,126,43,22,-1,-32
+PAGE 407: -10,98,1,-58,46,61,-63,116
+PAGE 408: 60,-58,0,2,-93,25,75,59
+PAGE 409: 118,-126,6,87,33,80,60,84
+PAGE 410: 82,18,-2,12,4,-31,-51,80
+PAGE 411: 76,-112,-62,-30,34,-46,92,-1
+PAGE 412: -75,25,7,-101,-99,127,-10,-8
+PAGE 413: -26,-51,-95,-61,53,64,-6,38
+PAGE 414: 69,116,-62,-84,-110,-42,-100,110
+PAGE 415: -3,-73,-76,-66,84,-40,-22,122
+PAGE 416: -91,6,28,68,-17,-108,87,-84
+PAGE 417: 27,7,-48,2,-94,105,-54,-4
+PAGE 418: 101,96,-22,73,0,-91,-87,-57
+PAGE 419: 92,-76,-115,108,-26,115,97,59
+PAGE 420: 98,88,9,22,-33,-102,8,-79
+PAGE 421: 120,6,-45,88,54,74,26,-35
+PAGE 422: 108,-117,87,-74,77,-8,-62,36
+PAGE 423: 0,-21,59,119,-14,44,-103,-20
+PAGE 424: 42,-95,-70,-73,-59,89,-26,81
+PAGE 425: -25,31,12,-115,-12,-114,103,66
+PAGE 426: 58,123,40,-24,-50,-32,-78,101
+PAGE 427: 67,-15,74,100,5,-6,-15,40
+PAGE 428: -100,-78,-15,119,-111,111,42,95
+PAGE 429: 85,-113,-74,-79,-110,70,27,-88
+PAGE 430: 79,7,108,-35,-86,-119,31,48
+PAGE 431: -58,64,-120,75,-98,26,-97,106
+PAGE 432: -119,-90,-31,84,66,-18,16,-5
+PAGE 433: 51,-11,-46,-38,-6,-29,-88,-60
+PAGE 434: 83,105,-108,-123,93,63,92,-20
+PAGE 435: -21,-5,-39,69,-76,-63,-93,20
+PAGE 436: -13,117,-14,-9,112,74,35,-73
+PAGE 437: -9,-30,85,115,-51,16,-101,38
+PAGE 438: -113,-35,11,51,54,-58,-28,-97
+PAGE 439: 90,-62,121,1,45,-112,-54,-97
+PAGE 440: -114,36,47,-102,-61,-103,-126,21
+PAGE 441: -103,119,-21,-17,-37,79,120,86
+PAGE 442: 113,-45,-116,65,-40,0,125,-78
+PAGE 443: 125,-107,5,-98,104,-33,33,-125
+PAGE 444: 58,118,32,-124,121,33,-53,-114
+PAGE 445: 22,12,-30,118,-114,111,-87,50
+PAGE 446: 12,-82,31,-48,-67,-26,46,-112
+PAGE 447: 3,-51,24,15,-76,-37,-58,-98
+PAGE 448: 14,57,22,-74,-28,52,107,6
+PAGE 449: -15,-17,13,-75,-6,-52,-53,-11
+PAGE 450: -107,20,-32,-89,-82,-54,-96,103
+PAGE 451: 97,27,95,-88,-42,110,9,-51
+PAGE 452: -126,29,33,20,-22,99,-121,16
+PAGE 453: -83,53,-72,127,53,101,25,59
+PAGE 454: -25,-46,-21,-86,76,-15,125,-7
+PAGE 455: 76,-94,83,34,-120,-6,50,-67
+PAGE 456: -25,30,63,127,-125,-7,-59,-27
+PAGE 457: 84,-113,-22,19,-2,-72,-48,95
+PAGE 458: 0,74,68,113,-117,119,-21,-118
+PAGE 459: 64,23,30,91,-12,-30,121,102
+PAGE 460: 26,124,124,67,63,-54,-101,-4
+PAGE 461: -13,58,-86,-69,-84,126,-58,-45
+PAGE 462: -126,112,115,10,49,-119,67,-110
+PAGE 463: -4,-9,63,83,61,-23,-21,-96
+PAGE 464: -93,63,11,47,-66,82,-12,-40
+PAGE 465: 27,-1,-13,97,-54,36,-117,70
+PAGE 466: 51,99,73,57,92,-25,-112,-94
+PAGE 467: 4,-49,3,106,-10,85,89,-2
+PAGE 468: -108,88,-109,100,53,38,79,36
+PAGE 469: 98,55,-117,38,-106,36,-50,33
+PAGE 470: 125,-123,-65,-40,-7,-66,-124,111
+PAGE 471: 30,64,-32,-87,-88,-13,-118,116
+PAGE 472: -39,66,61,65,-16,-84,-84,-119
+PAGE 473: -32,-16,-19,82,-106,36,-23,66
+PAGE 474: -17,49,-8,-115,78,-49,-32,-128
+PAGE 475: -43,-44,66,9,81,-39,76,-119
+PAGE 476: -62,63,57,125,-54,50,-28,33
+PAGE 477: -77,22,0,42,-70,-22,-68,8
+PAGE 478: -70,-6,9,85,112,-32,-113,-60
+PAGE 479: -7,-96,110,-32,-32,4,24,120
+PAGE 480: -125,30,-59,3,-74,69,61,118
+PAGE 481: 123,-82,63,-20,-111,31,74,46
+PAGE 482: 78,122,-55,-12,-50,-119,-26,35
+PAGE 483: 29,-105,106,121,-70,-59,100,56
+PAGE 484: -76,-108,-14,-35,58,100,102,64
+PAGE 485: -34,36,-108,18,-115,-32,-81,61
+PAGE 486: 89,-77,-52,-26,-92,72,-58,-55
+PAGE 487: 24,-75,39,-117,56,-9,-17,98
+PAGE 488: -47,38,-80,-15,-17,112,34,24
+PAGE 489: 5,-86,10,50,-106,32,122,54
+PAGE 490: 69,2,74,-53,-119,-26,-100,-4
+PAGE 491: -123,-16,86,-91,39,11,125,-124
+PAGE 492: -70,-96,-42,68,2,-72,74,48
+PAGE 493: 29,-98,17,51,-3,-34,105,-91
+PAGE 494: -69,-100,-76,18,-30,47,122,-90
+PAGE 495: 67,-21,-98,14,70,-28,-34,75
+PAGE 496: 53,30,61,-22,-74,31,-12,29
+PAGE 497: -40,13,5,-121,121,37,33,111
+PAGE 498: -95,-94,56,33,108,-6,-75,-86
+PAGE 499: -11,-73,35,91,-53,-128,81,-20
+PAGE 500: 103,-93,21,-67,-32,-124,-28,101
+PAGE 501: -23,62,30,-49,-24,-36,92,-94
+PAGE 502: -127,-66,120,-46,-74,123,-32,81
+PAGE 503: -126,-82,-110,13,-33,116,110,12
+PAGE 504: 95,69,20,-107,105,66,-97,53
+PAGE 505: -117,76,24,-8,93,111,-90,103
+PAGE 506: 106,-24,47,-18,-92,-17,-10,121
+PAGE 507: -106,80,36,-23,29,53,70,31
+PAGE 508: -116,-30,34,-84,-48,74,-82,62
+PAGE 509: -5,-45,27,38,-98,58,-89,55
+PAGE 510: -114,74,-107,-48,-18,-114,22,17
+PAGE 511: 32,62,70,55,23,49,104,84
+---------------------------------------------
+NUM PAGE FAULTS: 162
+NUM BYTES TRANSFERRED: 2592
+---------------------------------------------

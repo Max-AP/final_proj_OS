@@ -1,0 +1,103 @@
+INITIAL RAM CONTENT: ALL ZEROS
+---------------------------------------------
+PERFORMING RANDOMLY GENERATED TRANSACTIONS...
+Read transaction for physical address: 1110
+RAM read: @1110 --> 0
+Write transaction for physical address: 0100
+RAM write: @0100 <-- 60
+Read transaction for physical address: 0010
+RAM read: @0010 --> 0
+Write transaction for physical address: 1100
+RAM write: @1100 <-- -113
+Read transaction for physical address: 0100
+RAM read: @0100 --> 60
+Write transaction for physical address: 1100
+RAM write: @1100 <-- -35
+Read transaction for physical address: 0001
+RAM read: @0001 --> 0
+Write transaction for physical address: 1011
+RAM write: @1011 <-- 88
+Read transaction for physical address: 0101
+RAM read: @0101 --> 0
+Write transaction for physical address: 1011
+RAM write: @1011 <-- -116
+Read transaction for physical address: 1011
+RAM read: @1011 --> -116
+Write transaction for physical address: 0111
+RAM write: @0111 <-- 119
+Read transaction for physical address: 0111
+RAM read: @0111 --> 119
+Write transaction for physical address: 0000
+RAM write: @0000 <-- -12
+Read transaction for physical address: 0001
+RAM read: @0001 --> 0
+Write transaction for physical address: 0010
+RAM write: @0010 <-- 108
+Read transaction for physical address: 1110
+RAM read: @1110 --> 0
+Write transaction for physical address: 0001
+RAM write: @0001 <-- -5
+Read transaction for physical address: 0011
+RAM read: @0011 --> 0
+Write transaction for physical address: 0100
+RAM write: @0100 <-- 124
+Read transaction for physical address: 0100
+RAM read: @0100 --> 124
+Write transaction for physical address: 1011
+RAM write: @1011 <-- -63
+Read transaction for physical address: 1010
+RAM read: @1010 --> 0
+Write transaction for physical address: 0111
+RAM write: @0111 <-- 111
+Read transaction for physical address: 1000
+RAM read: @1000 --> 0
+Write transaction for physical address: 0011
+RAM write: @0011 <-- 54
+Read transaction for physical address: 1010
+RAM read: @1010 --> 0
+Write transaction for physical address: 0101
+RAM write: @0101 <-- -44
+Read transaction for physical address: 1110
+RAM read: @1110 --> 0
+Write transaction for physical address: 1010
+RAM write: @1010 <-- -55
+Read transaction for physical address: 1000
+RAM read: @1000 --> 0
+Write transaction for physical address: 1101
+RAM write: @1101 <-- -88
+Read transaction for physical address: 1010
+RAM read: @1010 --> -55
+Write transaction for physical address: 0100
+RAM write: @0100 <-- 3
+Read transaction for physical address: 1001
+RAM read: @1001 --> 0
+Write transaction for physical address: 0011
+RAM write: @0011 <-- -29
+Read transaction for physical address: 0010
+RAM read: @0010 --> 108
+Write transaction for physical address: 1001
+RAM write: @1001 <-- 78
+Read transaction for physical address: 1101
+RAM read: @1101 --> -88
+Write transaction for physical address: 1110
+RAM write: @1110 <-- 22
+END OF MEMORY TRANSACTIONS
+---------------------------------------------
+MEMORY CONTENT:
+0000: -12
+0001: -5
+0010: 108
+0011: -29
+0100: 3
+0101: -44
+0110: 0
+0111: 111
+1000: 0
+1001: 78
+1010: -55
+1011: -63
+1100: -35
+1101: -88
+1110: 22
+1111: 0
+---------------------------------------------

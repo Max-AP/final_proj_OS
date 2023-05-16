@@ -1,0 +1,115 @@
+INITIAL RAM CONTENT: ALL ZEROS
+INITIAL DISK CONTENT:
+PAGE 0: 71,6,-115,-78
+PAGE 1: -23,-52,17,115
+PAGE 2: -65,-99,111,-90
+PAGE 3: -21,85,57,55
+PAGE 4: 23,53,-68,-19
+PAGE 5: -98,42,-77,70
+PAGE 6: -107,41,-120,31
+PAGE 7: 12,-92,-37,-59
+---------------------------------------------
+PERFORMING RANDOMLY GENERATED TRANSACTIONS...
+Read transaction for virtual address: 11001
+Bringing page 6 into frame 0
+RAM: @0001 --> 41
+Write transaction for virtual address: 11100
+Bringing page 7 into frame 1
+RAM: @0100 <-- -15
+Read transaction for virtual address: 01011
+Bringing page 2 into frame 2
+RAM: @1011 --> -90
+Write transaction for virtual address: 10110
+Bringing page 5 into frame 3
+RAM: @1110 <-- 29
+Read transaction for virtual address: 00101
+Evicting page 6 (NOT DIRTY)
+Bringing page 1 into frame 0
+RAM: @0001 --> -52
+Write transaction for virtual address: 00010
+Evicting page 7
+Bringing page 0 into frame 1
+RAM: @0110 <-- -69
+Read transaction for virtual address: 11101
+Evicting page 2 (NOT DIRTY)
+Bringing page 7 into frame 2
+RAM: @1001 --> -92
+Write transaction for virtual address: 00001
+Page 0 is in memory
+RAM: @0101 <-- -101
+Read transaction for virtual address: 10000
+Evicting page 5
+Bringing page 4 into frame 3
+RAM: @1100 --> 23
+Write transaction for virtual address: 11111
+Page 7 is in memory
+RAM: @1011 <-- -36
+Read transaction for virtual address: 11011
+Evicting page 1 (NOT DIRTY)
+Bringing page 6 into frame 0
+RAM: @0011 --> 31
+Write transaction for virtual address: 00010
+Page 0 is in memory
+RAM: @0110 <-- -112
+Read transaction for virtual address: 10010
+Page 4 is in memory
+RAM: @1110 --> -68
+Write transaction for virtual address: 11001
+Page 6 is in memory
+RAM: @0001 <-- -95
+Read transaction for virtual address: 10011
+Page 4 is in memory
+RAM: @1111 --> -19
+Write transaction for virtual address: 01110
+Evicting page 0
+Bringing page 3 into frame 1
+RAM: @0110 <-- -94
+Read transaction for virtual address: 10111
+Evicting page 7
+Bringing page 5 into frame 2
+RAM: @1011 --> 70
+Write transaction for virtual address: 11100
+Evicting page 4 (NOT DIRTY)
+Bringing page 7 into frame 3
+RAM: @1100 <-- -83
+Read transaction for virtual address: 10010
+Evicting page 6
+Bringing page 4 into frame 0
+RAM: @0010 --> -68
+Write transaction for virtual address: 11110
+Page 7 is in memory
+RAM: @1110 <-- -102
+END OF MEMORY TRANSACTIONS
+---------------------------------------------
+MEMORY CONTENT:
+0000: 23
+0001: 53
+0010: -68
+0011: -19
+0100: -21
+0101: 85
+0110: -94
+0111: 55
+1000: -98
+1001: 42
+1010: 29
+1011: 70
+1100: -83
+1101: -92
+1110: -102
+1111: -36
+---------------------------------------------
+WRITING PAGES BACK TO DISK...
+DISK CONTENT:
+PAGE 0: 71,-101,-112,-78
+PAGE 1: -23,-52,17,115
+PAGE 2: -65,-99,111,-90
+PAGE 3: -21,85,-94,55
+PAGE 4: 23,53,-68,-19
+PAGE 5: -98,42,29,70
+PAGE 6: -107,-95,-120,31
+PAGE 7: -83,-92,-102,-36
+---------------------------------------------
+NUM PAGE FAULTS: 13
+NUM BYTES TRANSFERRED: 80
+---------------------------------------------
