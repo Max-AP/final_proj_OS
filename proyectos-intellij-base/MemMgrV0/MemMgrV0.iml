@@ -7,11 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="vmsimulation" level="project" />
-    <orderEntry type="library" name="vmsimulation2" level="project" />
-    <orderEntry type="library" name="vmsimulation4" level="project" />
-    <orderEntry type="library" name="vmsimulation1" level="project" />
     <orderEntry type="library" name="vmsimulation3" level="project" />
+    <orderEntry type="library" name="vmsimulation" level="project" />
+    <orderEntry type="library" name="vmsimulation4" level="project" />
     <orderEntry type="library" name="vmsimulation5" level="project" />
+    <orderEntry type="library" name="vmsimulation2" level="project" />
+    <orderEntry type="library" name="vmsimulation1" level="project" />
   </component>
 </module>
