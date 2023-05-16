@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/artifacts/MemMgrV0" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="vmsimulation" level="project" />
+    <orderEntry type="library" name="vmsimulation2" level="project" />
+    <orderEntry type="library" name="vmsimulation4" level="project" />
+    <orderEntry type="library" name="vmsimulation1" level="project" />
+    <orderEntry type="library" name="vmsimulation3" level="project" />
+    <orderEntry type="library" name="vmsimulation5" level="project" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV0/MemMgrV0.iml" filepath="$PROJECT_DIR$/MemMgrV0/MemMgrV0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV1/MemMgrV1.iml" filepath="$PROJECT_DIR$/MemMgrV1/MemMgrV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV2/MemMgrV2.iml" filepath="$PROJECT_DIR$/MemMgrV2/MemMgrV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV3/MemMgrV3.iml" filepath="$PROJECT_DIR$/MemMgrV3/MemMgrV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV4/MemMgrV4.iml" filepath="$PROJECT_DIR$/MemMgrV4/MemMgrV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MemMgrV0/out/out.iml" filepath="$PROJECT_DIR$/MemMgrV0/out/out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyectos-intellij-base.iml" filepath="$PROJECT_DIR$/.idea/proyectos-intellij-base.iml" />
+    </modules>
+  </component>
+</project>

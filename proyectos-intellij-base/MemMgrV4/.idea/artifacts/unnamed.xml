@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="library" level="project" name="vmsimulation" />
+      <element id="module-source" name="MemMgrV4" />
+    </root>
+  </artifact>
+</component>

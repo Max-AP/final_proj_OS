@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vmsimulation1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MemMgrV4/vmsimulation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
