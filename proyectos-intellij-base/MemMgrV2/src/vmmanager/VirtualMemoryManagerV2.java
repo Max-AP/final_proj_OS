@@ -5,10 +5,8 @@ import vmsimulation.BitwiseToolbox;
 import vmsimulation.MainMemory;
 import vmsimulation.MemoryException;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.math.BigInteger;
+import java.util.*;
 
 public class VirtualMemoryManagerV2 {
 
@@ -17,14 +15,10 @@ public class VirtualMemoryManagerV2 {
     BackingStore disk;    // The disk
     Integer pageSize;    // Page size
 
-    Integer availFrames;
-
     int numBitsToAddress;
     int offsetBits; //offset in number of bits
     PageTable pageTable;
     int faults;
-
-    Queue<Integer> queue= new LinkedList<>();
     // MORE INSTANCE VARIABLE NEEDED, MOST LIKELY
 
     // log2(): Convenient function to compute the log2 of an integer;
@@ -40,9 +34,8 @@ public class VirtualMemoryManagerV2 {
         this.disk = disk;
         this.pageSize = pageSize;
         offsetBits = log2(pageSize);
-        pageTable = new PageTable();
+        pageTable = new PageTable(this.memory.size()/this.pageSize);
         faults = 0;
-        availFrames = this.memory.size()/this.pageSize;
 
 
 
@@ -57,13 +50,13 @@ public class VirtualMemoryManagerV2 {
         int address = BitwiseToolbox.extractBits(fourByteBinaryString, 0, numBitsToAddress - 1);
 
         //address in binary
-        String virtualAddress = BitwiseToolbox.getBitString(address, log2(memory.size()-1));
+        String virtualAddress = BitwiseToolbox.getBitString(address, log2(disk.size()-1));
 
         //number of bits that make the virtual Page Number
         int virtualPageNumberSize = virtualAddress.length() - offsetBits;
 
         //physical page number, this is the number to lookup in the table
-        int physicalPageNumber = address/pageSize;
+        int physicalPageNumber = Integer.parseInt(virtualAddress.substring(0, virtualPageNumberSize), 2);
 
         //page offset in decimal
         int pageOffset =  Integer.parseInt(virtualAddress.substring(virtualPageNumberSize), 2);
@@ -72,37 +65,27 @@ public class VirtualMemoryManagerV2 {
         int frame = pageTable.lookup(physicalPageNumber);
 
         if (frame == -1){ // if the page is not in the table
-                if(!availFrames.equals(0)) {
-                    faults++; //add a fault
-                    availFrames--;
-                    queue.add(physicalPageNumber);
-                    pageTable.update(physicalPageNumber); //add the page to the table
-                    frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
-
-                    for (byte content : disk.readPage(physicalPageNumber)) {
-                        memory.writeByte(frame++, content);
-                    }
-                }else{
-                    Integer evict=queue.remove();
-                    System.out.println("Evicting page "+evict);
-                    faults++;
-                    int atFrame=pageTable.lookup(evict);
-                    frame = pageTable.lookup(evict) * pageSize;
-                    byte[] contentArray = new byte[pageSize];
-                    for (int content = 0; content < pageSize; content++) {
-                        contentArray[content] = memory.readByte(frame++);
-                    }
-                    disk.writePage(evict, contentArray);
-                    pageTable.incert(physicalPageNumber,atFrame);
-                    frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
-
-                    for(byte content : disk.readPage(physicalPageNumber)){
-                        memory.writeByte(frame++, content);
-                    }
-                    queue.add(physicalPageNumber);
+            faults++; //add a fault
+            int victim = pageTable.victimManip(); // get current victim (frame to target)
+            if(!pageTable.hasSpace()){ //see if there are spaces in the table
+                int pageNumber = pageTable.getPageTable().get(victim); // get page to evict
+                System.out.println("Evicting page " + pageNumber);
+                //write memory contents back to disk
+                int memoryAddress = victim * pageSize;
+                byte[] contentArray = new byte[pageSize];
+                for (int content = 0; content < pageSize; content++) {
+                    contentArray[content] = memory.readByte(memoryAddress++);
                 }
+                disk.writePage(pageNumber, contentArray);
+            }
+            pageTable.update(physicalPageNumber, victim); //add the page to the table
+            frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
+
+            for(byte content : disk.readPage(physicalPageNumber)){
+                memory.writeByte(frame++, content);
+            }
         } else {
-            System.out.println("Page " + physicalPageNumber + " is already on memory");
+            System.out.println("Page " + physicalPageNumber + " is in memory");
         }
 
         frame = pageTable.lookup(physicalPageNumber); // update frame
@@ -128,17 +111,18 @@ public class VirtualMemoryManagerV2 {
 
     // Method to read a byte to memory given a virtual address
     public Byte readByte(Integer fourByteBinaryString) throws MemoryException {
+        boolean readFromDisk = true;
         //address in decimal form
         int address = BitwiseToolbox.extractBits(fourByteBinaryString, 0, numBitsToAddress - 1);
 
         //address in binary
-        String virtualAddress = BitwiseToolbox.getBitString(address, log2(memory.size()-1));
+        String virtualAddress = BitwiseToolbox.getBitString(address, log2(disk.size()-1));
 
         //number of bits that make the virtual Page Number
         int virtualPageNumberSize = virtualAddress.length() - offsetBits;
 
         //physical page number, this is the number to lookup in the table
-        int physicalPageNumber = address/pageSize;
+        int physicalPageNumber = Integer.parseInt(virtualAddress.substring(0, virtualPageNumberSize), 2);
 
         //page offset in decimal
         int pageOffset =  Integer.parseInt(virtualAddress.substring(virtualPageNumberSize), 2);
@@ -147,40 +131,32 @@ public class VirtualMemoryManagerV2 {
         int frame = pageTable.lookup(physicalPageNumber);
 
         if (frame == -1){ // if the page is not in the table
-            if(!availFrames.equals(0)){
-                faults++; //add a fault
-                availFrames--;
-                queue.add(physicalPageNumber);
-                pageTable.update(physicalPageNumber); //add the page to the table
-                frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
-
-                for(byte content : disk.readPage(physicalPageNumber)){
-                    memory.writeByte(frame++, content);
-                }
-            }else {
-                Integer evict=queue.remove();
-                System.out.println("Evicting page "+evict);
-                faults++;
-                int atFrame=pageTable.lookup(evict);
-                frame = pageTable.lookup(evict) * pageSize;
+            faults++; //add a fault
+            int victim = pageTable.victimManip(); // get current victim (frame to target)
+            if(!pageTable.hasSpace()){ //see if there are spaces in the table
+                int pageNumber = pageTable.getPageTable().get(victim); // get page to evict
+                System.out.println("Evicting page " + pageNumber);
+                //write memory contents back to disk
+                int memoryAddress = victim * pageSize;
                 byte[] contentArray = new byte[pageSize];
                 for (int content = 0; content < pageSize; content++) {
-                    contentArray[content] = memory.readByte(frame++);
+                    contentArray[content] = memory.readByte(memoryAddress++);
                 }
-                disk.writePage(evict, contentArray);
-                pageTable.incert(physicalPageNumber,atFrame);
-                frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
-
-                for(byte content : disk.readPage(physicalPageNumber)){
-                    memory.writeByte(frame++, content);
-                }
-                queue.add(physicalPageNumber);
+                disk.writePage(pageNumber, contentArray);
             }
+            pageTable.update(physicalPageNumber, victim); //add the page to the table
+            frame = pageTable.lookup(physicalPageNumber) * pageSize; //update frame to represent starting memory address
+
+            for(byte content : disk.readPage(physicalPageNumber)){
+                memory.writeByte(frame++, content);
+            }
+
         } else {
-            System.out.println("Page "+physicalPageNumber + " is already on memory");
+            System.out.println("Page " + physicalPageNumber + " is in memory");
+            readFromDisk = false;
         }
 
-        frame = pageTable.lookup(physicalPageNumber); // update frame
+        frame = pageTable.lookup(physicalPageNumber);
 
         //frame in bits
         String frameBits = BitwiseToolbox.getBitString(frame, virtualPageNumberSize-1);
@@ -194,8 +170,13 @@ public class VirtualMemoryManagerV2 {
         //physical address in decimal
         int physicalAddress = Integer.parseInt(physicalAddressBits, 2);
 
-        //Getting the value stored in the disk
-        byte valInAddr = disk.readPage(physicalPageNumber)[pageOffset];
+        byte valInAddr;
+        if (readFromDisk){
+            //Getting the value stored in the disk
+            valInAddr = disk.readPage(physicalPageNumber)[pageOffset];
+        } else {
+            valInAddr = memory.readByte(physicalAddress);
+        }
 
         //printing a message
         System.out.println("RAM: @" + BitwiseToolbox.getBitString(physicalAddress, log2(memory.size())-1) + " --> " + valInAddr);
@@ -226,7 +207,6 @@ public class VirtualMemoryManagerV2 {
 
     // Method to write back all pages to disk
     public void writeBackAllPagesToDisk() throws MemoryException {
-        byte[][] memoryArrayToMatrix = new byte[disk.size()/pageSize][pageSize];
         int memoryAddress = 0;
 
         for(int entry: pageTable.getPageTable()){
@@ -257,9 +237,12 @@ public class VirtualMemoryManagerV2 {
 
 class PageTable {
     private final ArrayList<Integer> pageTable;
-
-    PageTable(){
+    private final int max_size;
+    private int victim;
+    PageTable(int max_size){
         pageTable = new ArrayList<>();
+        this.max_size = max_size;
+        victim = 0;
     }
 
     public ArrayList<Integer> getPageTable() {
@@ -274,14 +257,27 @@ class PageTable {
         }
     }
 
-    public void update(int virtualPageNumber){
-        System.out.println("Bringing page " + virtualPageNumber + " into frame " + pageTable.size());
-            pageTable.add(virtualPageNumber);
+    public void update(int virtualPageNumber, int victim){
+        System.out.println("Bringing page " + virtualPageNumber + " into frame " + victim);
+        if(pageTable.size() != victim) {
+            pageTable.remove(victim);
+        }
+        pageTable.add(victim, virtualPageNumber);
     }
 
-    public void incert(int virtualPageNumber,int frame){
-        System.out.println("Bringing page " + virtualPageNumber + " into frame " + frame);
-        pageTable.set(frame,virtualPageNumber);
+    public boolean hasSpace(){
+        return pageTable.size() < max_size;
+    }
+
+    public int victimManip(){
+        if (victim == max_size){
+            victim = 0;
+        }
+        return victim++;
+    }
+
+    public int getPage(int frame){
+        return pageTable.get(frame);
     }
 }
 

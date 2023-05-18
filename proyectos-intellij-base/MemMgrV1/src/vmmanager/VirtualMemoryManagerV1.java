@@ -50,7 +50,7 @@ public class VirtualMemoryManagerV1 {
         int address = BitwiseToolbox.extractBits(fourByteBinaryString, 0, numBitsToAddress - 1);
 
         //address in binary
-        String virtualAddress = BitwiseToolbox.getBitString(address, log2(memory.size()-1));
+        String virtualAddress = BitwiseToolbox.getBitString(address, log2(disk.size()-1));
 
         //number of bits that make the virtual Page Number
         int virtualPageNumberSize = virtualAddress.length() - offsetBits;
@@ -73,7 +73,7 @@ public class VirtualMemoryManagerV1 {
                 memory.writeByte(frame++, content);
             }
         } else {
-            System.out.println("Page " + physicalPageNumber + " is already on memory");
+            System.out.println("Page " + physicalPageNumber + " is in memory");
         }
 
         frame = pageTable.lookup(physicalPageNumber); // update frame
@@ -104,7 +104,7 @@ public class VirtualMemoryManagerV1 {
         int address = BitwiseToolbox.extractBits(fourByteBinaryString, 0, numBitsToAddress - 1);
 
         //address in binary
-        String virtualAddress = BitwiseToolbox.getBitString(address, log2(memory.size()-1));
+        String virtualAddress = BitwiseToolbox.getBitString(address, log2(disk.size()-1));
 
         //number of bits that make the virtual Page Number
         int virtualPageNumberSize = virtualAddress.length() - offsetBits;
@@ -127,7 +127,7 @@ public class VirtualMemoryManagerV1 {
                 memory.writeByte(frame++, content);
             }
         } else {
-            System.out.println("Page " + physicalPageNumber + " is already on memory");
+            System.out.println("Page " + physicalPageNumber + " is in memory");
             readFromDisk = false;
         }
 
