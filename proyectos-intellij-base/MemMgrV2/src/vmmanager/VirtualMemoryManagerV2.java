@@ -186,7 +186,6 @@ public class VirtualMemoryManagerV2 {
     private MemoryState managePageTable(int pageNumber) {
 
         return null;
-
     }
 
     // Method to print all memory content
