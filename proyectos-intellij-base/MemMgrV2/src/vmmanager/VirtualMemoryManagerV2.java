@@ -199,9 +199,16 @@ public class VirtualMemoryManagerV2 {
     public void printDiskContent() throws MemoryException {
         for (int i = 0; i < disk.size()/pageSize; i++)
         {
-            System.out.println("Page " + i + ": " + Arrays.toString(disk.readPage(i)));
+            System.out.print("PAGE " + i + ": ");
+            for (int j = 0; j < pageSize; j++){
+                System.out.print(disk.readPage(i)[j]);
+                if (j == pageSize -1){
+                    System.out.println();
+                } else {
+                    System.out.print(",");
+                }
+            }
         }
-
     }
 
     // Method to write back all pages to disk
